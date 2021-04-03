@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="PREMIUM HD | CINEMAX">
-    <display-name lang="es">PREMIUM HD | CINEMAX</display-name>
-    <url>http://www.gatotv.com</url>
+  <channel id="CINEMAX">
+    <display-name lang="es">CINEMAX</display-name>
+    <url>http://www.mi.tv</url>
   </channel>
-  <channel id="PREMIUM HD | GOLDEN">
-    <display-name lang="es">PREMIUM HD | GOLDEN</display-name>
+  <channel id="GOLDEN">
+    <display-name lang="es">GOLDEN</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="PREMIUM HD | SYFY">
@@ -16,70 +16,40 @@
     <display-name lang="es">HISTORY 2</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210403022700 -0600" stop="20210403035100 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Frankenstein</title>
-  </programme>
-  <programme start="20210403035100 -0600" stop="20210403060000 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Dios no está muerto</title>
-  </programme>
-  <programme start="20210403060000 -0600" stop="20210403083200 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Revancha</title>
-  </programme>
-  <programme start="20210403083200 -0600" stop="20210403110200 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápidos y Furiosos 6</title>
-  </programme>
-  <programme start="20210403110200 -0600" stop="20210403125200 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Persecución al Límite</title>
-  </programme>
-  <programme start="20210403125200 -0600" stop="20210403145400 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápido y Furioso</title>
-  </programme>
-  <programme start="20210403145400 -0600" stop="20210403165800 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Más rápido más furioso</title>
-  </programme>
-  <programme start="20210403165800 -0600" stop="20210403195800 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápido y furioso Reto Tokio</title>
-  </programme>
-  <programme start="20210403195800 -0600" stop="20210403220000 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápidos y furiosos</title>
-  </programme>
-  <programme start="20210403220000 -0600" stop="20210404002800 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápidos y Furiosos 6</title>
-  </programme>
-  <programme start="20210403014300 -0600" stop="20210403021400 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403014300 -0600" stop="20210403021400 -0600" channel="GOLDEN">
     <title lang="es">Inner secrets</title>
   </programme>
-  <programme start="20210403021400 -0600" stop="20210403024300 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403021400 -0600" stop="20210403024300 -0600" channel="GOLDEN">
     <title lang="es">Inner secrets</title>
   </programme>
-  <programme start="20210403024300 -0600" stop="20210403044600 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403024300 -0600" stop="20210403044600 -0600" channel="GOLDEN">
     <title lang="es">Una Última y nos vamos</title>
   </programme>
-  <programme start="20210403044600 -0600" stop="20210403065400 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403044600 -0600" stop="20210403065400 -0600" channel="GOLDEN">
     <title lang="es">Latin Lover</title>
   </programme>
-  <programme start="20210403065400 -0600" stop="20210403083600 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403065400 -0600" stop="20210403083600 -0600" channel="GOLDEN">
     <title lang="es">Mortadelo y Filemón</title>
   </programme>
-  <programme start="20210403083600 -0600" stop="20210403102100 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403083600 -0600" stop="20210403102100 -0600" channel="GOLDEN">
     <title lang="es">El príncipe de Egipto</title>
   </programme>
-  <programme start="20210403102100 -0600" stop="20210403120200 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403102100 -0600" stop="20210403120200 -0600" channel="GOLDEN">
     <title lang="es">Marcelino</title>
   </programme>
-  <programme start="20210403120200 -0600" stop="20210403143600 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403120200 -0600" stop="20210403143600 -0600" channel="GOLDEN">
     <title lang="es">Hijo de Dios</title>
   </programme>
-  <programme start="20210403143600 -0600" stop="20210403165900 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403143600 -0600" stop="20210403165900 -0600" channel="GOLDEN">
     <title lang="es">La cabaña</title>
   </programme>
-  <programme start="20210403165900 -0600" stop="20210403190000 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403165900 -0600" stop="20210403190000 -0600" channel="GOLDEN">
     <title lang="es">Wonder</title>
   </programme>
-  <programme start="20210403190000 -0600" stop="20210403210000 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403190000 -0600" stop="20210403210000 -0600" channel="GOLDEN">
     <title lang="es">Lo Imposible</title>
   </programme>
-  <programme start="20210403210000 -0600" stop="20210404001400 -0600" channel="PREMIUM HD | GOLDEN">
+  <programme start="20210403210000 -0600" stop="20210404001400 -0600" channel="GOLDEN">
     <title lang="es">Juan Pablo II</title>
   </programme>
   <programme start="20210403002000 -0600" stop="20210403012000 -0600" channel="HISTORY 2">
