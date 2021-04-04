@@ -8,12 +8,12 @@
     <display-name lang="es">PREMIUM HD |  CINEMAX</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PREMIUM HD | Morbido TV">
-    <display-name lang="es">PREMIUM HD | Morbido TV</display-name>
+  <channel id="DUAL | AMC FHD">
+    <display-name lang="es">DUAL | AMC FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PREMIUM FHD |  ANIMAL PLANET">
-    <display-name lang="es">PREMIUM FHD |  ANIMAL PLANET</display-name>
+  <channel id="DUAL | AXN FHD">
+    <display-name lang="es">DUAL | AXN FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20210403001700 -0600" stop="20210403011000 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
@@ -733,721 +733,826 @@
   <programme start="20210410234100 -0600" stop="20210411025200 -0600" channel="PREMIUM HD |  CINEMAX">
     <title lang="es">La última tentación de Cristo</title>
   </programme>
-  <programme start="20210403022700 -0600" stop="20210403035100 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Frankenstein</title>
+  <programme start="20210403015000 -0600" stop="20210403040000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">La huésped</title>
   </programme>
-  <programme start="20210403035100 -0600" stop="20210403060000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Dios no está muerto</title>
+  <programme start="20210403040000 -0600" stop="20210403050000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210403060000 -0600" stop="20210403083200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Revancha</title>
+  <programme start="20210403050000 -0600" stop="20210403060000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210403083200 -0600" stop="20210403110200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Rápidos y Furiosos 6</title>
+  <programme start="20210403060000 -0600" stop="20210403063000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403110200 -0600" stop="20210403125200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Persecución al Límite</title>
+  <programme start="20210403063000 -0600" stop="20210403070000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403125200 -0600" stop="20210403145400 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Rápido y Furioso</title>
+  <programme start="20210403070000 -0600" stop="20210403073000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210403145400 -0600" stop="20210403165800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Más rápido más furioso</title>
+  <programme start="20210403073000 -0600" stop="20210403080000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210403165800 -0600" stop="20210403195800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Rápido y furioso Reto Tokio</title>
+  <programme start="20210403080000 -0600" stop="20210403083000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210403195800 -0600" stop="20210403220000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Rápidos y furiosos</title>
+  <programme start="20210403083000 -0600" stop="20210403090000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210403220000 -0600" stop="20210404002800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Rápidos y Furiosos 6</title>
+  <programme start="20210403090000 -0600" stop="20210403093000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210404002800 -0600" stop="20210404030600 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Fortaleza prohibida</title>
+  <programme start="20210403093000 -0600" stop="20210403100000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210404030600 -0600" stop="20210404050000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Don Juan DeMarco</title>
+  <programme start="20210403100000 -0600" stop="20210403121000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">El lado luminoso de la vida</title>
   </programme>
-  <programme start="20210404050000 -0600" stop="20210404064600 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">El perro ganador</title>
+  <programme start="20210403121000 -0600" stop="20210403143500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Hombre de Familia</title>
   </programme>
-  <programme start="20210404064600 -0600" stop="20210404083300 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Belleza negra</title>
+  <programme start="20210403143500 -0600" stop="20210403163000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Pompeii: La furia del volcán</title>
   </programme>
-  <programme start="20210404083300 -0600" stop="20210404102100 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Paddington</title>
+  <programme start="20210403163000 -0600" stop="20210403181500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">La señal</title>
   </programme>
-  <programme start="20210404102100 -0600" stop="20210404120900 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Juntos… Pero No Tanto</title>
+  <programme start="20210403181500 -0600" stop="20210403195500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">El desterrado</title>
   </programme>
-  <programme start="20210404120900 -0600" stop="20210404140300 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Los Fantasmas de mis ex</title>
+  <programme start="20210403195500 -0600" stop="20210403220000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Agente internacional</title>
   </programme>
-  <programme start="20210404140300 -0600" stop="20210404155200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Quemese después de leerse</title>
+  <programme start="20210403220000 -0600" stop="20210403233500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Puntos de vista</title>
   </programme>
-  <programme start="20210404155200 -0600" stop="20210404180600 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Definitivamente, Tal Vez</title>
+  <programme start="20210403233500 -0600" stop="20210404011000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Amenaza roja</title>
   </programme>
-  <programme start="20210404180600 -0600" stop="20210404200000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Los Fantasmas de mis ex</title>
+  <programme start="20210404233500 -0600" stop="20210405011000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Amenaza roja</title>
   </programme>
-  <programme start="20210404200000 -0600" stop="20210404220000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Jefa por Accidente</title>
+  <programme start="20210405011000 -0600" stop="20210405020000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210404220000 -0600" stop="20210404235100 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Circuito cerrado</title>
+  <programme start="20210405020000 -0600" stop="20210405030000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210404235100 -0600" stop="20210405022100 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Inhala</title>
+  <programme start="20210405030000 -0600" stop="20210405040000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210405235100 -0600" stop="20210406022100 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Inhala</title>
+  <programme start="20210405040000 -0600" stop="20210405043000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210406022100 -0600" stop="20210406050000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">El nombre de la rosa</title>
+  <programme start="20210405043000 -0600" stop="20210405050000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210406050000 -0600" stop="20210406071000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Un Reino Unido</title>
+  <programme start="20210405050000 -0600" stop="20210405053000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210406071000 -0600" stop="20210406090500 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Kung fusion</title>
+  <programme start="20210405053000 -0600" stop="20210405060000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210406090500 -0600" stop="20210406105200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Línea de emergencia</title>
+  <programme start="20210405060000 -0600" stop="20210405063000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210406105200 -0600" stop="20210406123800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">La maldición de Charlie</title>
+  <programme start="20210405063000 -0600" stop="20210405070000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210406123800 -0600" stop="20210406142900 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Horas desesperadas</title>
+  <programme start="20210405100000 -0600" stop="20210405114500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Odd Thomas</title>
   </programme>
-  <programme start="20210406142900 -0600" stop="20210406162800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Mama</title>
+  <programme start="20210405114500 -0600" stop="20210405134500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Whip It</title>
   </programme>
-  <programme start="20210406162800 -0600" stop="20210406181400 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">La maldición de Charlie</title>
+  <programme start="20210405134500 -0600" stop="20210405155500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Agente internacional</title>
   </programme>
-  <programme start="20210406181400 -0600" stop="20210406200000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Ecos en la Oscuridad</title>
+  <programme start="20210405155500 -0600" stop="20210405175000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Ghost rider</title>
   </programme>
-  <programme start="20210406200000 -0600" stop="20210406214600 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Línea de emergencia</title>
+  <programme start="20210405175000 -0600" stop="20210405192500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Ghost Rider Espíritu de</title>
   </programme>
-  <programme start="20210406214600 -0600" stop="20210407001600 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">El Legado del Diablo</title>
+  <programme start="20210405192500 -0600" stop="20210405210000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Puntos de vista</title>
   </programme>
-  <programme start="20210407214600 -0600" stop="20210408001600 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">El Legado del Diablo</title>
+  <programme start="20210405210000 -0600" stop="20210405230000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">El líder</title>
   </programme>
-  <programme start="20210408001600 -0600" stop="20210408024800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">El infiltrado</title>
+  <programme start="20210405230000 -0600" stop="20210406004500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Blitz</title>
   </programme>
-  <programme start="20210408024800 -0600" stop="20210408050000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Guerreros del cielo y de la</title>
+  <programme start="20210406230000 -0600" stop="20210407004500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Blitz</title>
   </programme>
-  <programme start="20210408050000 -0600" stop="20210408074200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Meteoro la película</title>
+  <programme start="20210407004500 -0600" stop="20210407024000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">El Transportador 3</title>
   </programme>
-  <programme start="20210408074200 -0600" stop="20210408094800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">La Última Ola</title>
+  <programme start="20210407024000 -0600" stop="20210407033500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210408094800 -0600" stop="20210408115100 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Rápido y Furioso</title>
+  <programme start="20210407033500 -0600" stop="20210407043000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210408115100 -0600" stop="20210408140900 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Atrapada en Guantánamo</title>
+  <programme start="20210407043000 -0600" stop="20210407050000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210408140900 -0600" stop="20210408162200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Trascender</title>
+  <programme start="20210407050000 -0600" stop="20210407053000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210408162200 -0600" stop="20210408200000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">King Kong</title>
+  <programme start="20210407053000 -0600" stop="20210407060000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20210408200000 -0600" stop="20210408220200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Rápido y Furioso</title>
+  <programme start="20210407060000 -0600" stop="20210407063000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210408220200 -0600" stop="20210408233900 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Los Extraños: Cacería Nocturna</title>
+  <programme start="20210407063000 -0600" stop="20210407070000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210408233900 -0600" stop="20210409015800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">El inmortal</title>
+  <programme start="20210407070000 -0600" stop="20210407073000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210409233900 -0600" stop="20210410015800 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">El inmortal</title>
+  <programme start="20210407073000 -0600" stop="20210407080000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210410015800 -0600" stop="20210410050000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">La última tentación de Cristo</title>
+  <programme start="20210407080000 -0600" stop="20210407083000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210410050000 -0600" stop="20210410062600 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Número 9</title>
+  <programme start="20210407083000 -0600" stop="20210407090000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210410062600 -0600" stop="20210410082300 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">The duff</title>
+  <programme start="20210407090000 -0600" stop="20210407093000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210410082300 -0600" stop="20210410105200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Revancha</title>
+  <programme start="20210407093000 -0600" stop="20210407100000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210410105200 -0600" stop="20210410124000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">12 horas para vivir</title>
+  <programme start="20210407100000 -0600" stop="20210407105500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">NOS4A2 (Nosferatu)</title>
   </programme>
-  <programme start="20210410124000 -0600" stop="20210410143000 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Persecución al Límite</title>
+  <programme start="20210407105500 -0600" stop="20210407124000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Siempre a tu lado</title>
   </programme>
-  <programme start="20210410143000 -0600" stop="20210410161600 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Viene de Noche</title>
+  <programme start="20210407124000 -0600" stop="20210407144000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Un Lugar Donde Refugiarse</title>
   </programme>
-  <programme start="20210410161600 -0600" stop="20210410181400 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">Mama</title>
+  <programme start="20210407144000 -0600" stop="20210407165500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Siete Almas</title>
   </programme>
-  <programme start="20210410200000 -0600" stop="20210410215500 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">El niño</title>
+  <programme start="20210407165500 -0600" stop="20210407184000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Siempre a tu lado</title>
   </programme>
-  <programme start="20210410215500 -0600" stop="20210410234100 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">La maldición de Charlie</title>
+  <programme start="20210407184000 -0600" stop="20210407200500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">7500</title>
   </programme>
-  <programme start="20210410234100 -0600" stop="20210411025200 -0600" channel="PREMIUM HD | Morbido TV">
-    <title lang="es">La última tentación de Cristo</title>
+  <programme start="20210407200500 -0600" stop="20210407220000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Ghost rider</title>
   </programme>
-  <programme start="20210403001700 -0600" stop="20210403011000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210407220000 -0600" stop="20210407225000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210403011000 -0600" stop="20210403020500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Ríos de África</title>
+  <programme start="20210407225000 -0600" stop="20210408003000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Extinción</title>
   </programme>
-  <programme start="20210403020500 -0600" stop="20210403025600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank: al rescate</title>
+  <programme start="20210408225000 -0600" stop="20210409003000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Extinción</title>
   </programme>
-  <programme start="20210403025600 -0600" stop="20210403034600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Evan a lo salvaje</title>
+  <programme start="20210409003000 -0600" stop="20210409022000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">El Redentor</title>
   </programme>
-  <programme start="20210403034600 -0600" stop="20210403043600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río aguas desco</title>
+  <programme start="20210409022000 -0600" stop="20210409031500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210403043600 -0600" stop="20210403053000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210409031500 -0600" stop="20210409041000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210403053000 -0600" stop="20210403060000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Misterios del mundo anima</title>
+  <programme start="20210409041000 -0600" stop="20210409043500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403060000 -0600" stop="20210403063000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Misterios del mundo anima</title>
+  <programme start="20210409043500 -0600" stop="20210409050000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403063000 -0600" stop="20210403072400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El zoológico del Bronx</title>
+  <programme start="20210409050000 -0600" stop="20210409053000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403072400 -0600" stop="20210403081800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El zoológico del Bronx</title>
+  <programme start="20210409053000 -0600" stop="20210409060000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403081800 -0600" stop="20210403091100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El acuario</title>
+  <programme start="20210409070000 -0600" stop="20210409073000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403091100 -0600" stop="20210403100500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El acuario</title>
+  <programme start="20210409073000 -0600" stop="20210409080000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403100500 -0600" stop="20210403105900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Refugio en el granero</title>
+  <programme start="20210409080000 -0600" stop="20210409083000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403105900 -0600" stop="20210403124100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210409083000 -0600" stop="20210409090000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403124100 -0600" stop="20210403133400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca de gigantes</title>
+  <programme start="20210409090000 -0600" stop="20210409093000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403133400 -0600" stop="20210403140100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210409093000 -0600" stop="20210409100000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20210403140100 -0600" stop="20210403142800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210409100000 -0600" stop="20210409110000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">NOS4A2 (Nosferatu)</title>
   </programme>
-  <programme start="20210403142800 -0600" stop="20210403145400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210409110000 -0600" stop="20210409131000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">El lado luminoso de la vida</title>
   </programme>
-  <programme start="20210403145400 -0600" stop="20210403152100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210409131000 -0600" stop="20210409150500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">My Own Love Song</title>
   </programme>
-  <programme start="20210403152100 -0600" stop="20210403154800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210409150500 -0600" stop="20210409171500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">La huésped</title>
   </programme>
-  <programme start="20210403154800 -0600" stop="20210403161500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210409171500 -0600" stop="20210409185500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">El desterrado</title>
   </programme>
-  <programme start="20210403161500 -0600" stop="20210403170800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank En busca del</title>
+  <programme start="20210409185500 -0600" stop="20210409210000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">El lado luminoso de la vida</title>
   </programme>
-  <programme start="20210403170800 -0600" stop="20210403180100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank En busca del</title>
+  <programme start="20210409210000 -0600" stop="20210409224500 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Super</title>
   </programme>
-  <programme start="20210403180100 -0600" stop="20210403185400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Planeta mutante</title>
+  <programme start="20210409224500 -0600" stop="20210410003000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Blitz</title>
   </programme>
-  <programme start="20210403185400 -0600" stop="20210403194600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Costa Rica salvaje</title>
+  <programme start="20210410224500 -0600" stop="20210411003000 -0600" channel="DUAL | AMC FHD">
+    <title lang="es">Blitz</title>
   </programme>
-  <programme start="20210403194600 -0600" stop="20210403203800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Europa salvaje</title>
+  <programme start="20210403004500 -0600" stop="20210403014000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210403203800 -0600" stop="20210403213100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Para siempre Steve</title>
+  <programme start="20210403014000 -0600" stop="20210403023500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI: Miami</title>
   </programme>
-  <programme start="20210403213100 -0600" stop="20210403222400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Jeff, veterinario</title>
+  <programme start="20210403023500 -0600" stop="20210403032500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI: Miami</title>
   </programme>
-  <programme start="20210403222400 -0600" stop="20210403231700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Refugio en el granero</title>
+  <programme start="20210403032500 -0600" stop="20210403041500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI: Miami</title>
   </programme>
-  <programme start="20210403231700 -0600" stop="20210404001000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El cazador de cocodrilos</title>
+  <programme start="20210403041500 -0600" stop="20210403050500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210404001000 -0600" stop="20210404010700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Jeff, veterinario</title>
+  <programme start="20210403050500 -0600" stop="20210403060000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210404010700 -0600" stop="20210404020000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Piscinas increíbles</title>
+  <programme start="20210403060000 -0600" stop="20210403070000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI</title>
   </programme>
-  <programme start="20210404020000 -0600" stop="20210404023000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Los reyes de las piscina</title>
+  <programme start="20210403070000 -0600" stop="20210403080000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI</title>
   </programme>
-  <programme start="20210404023000 -0600" stop="20210404032000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca de gigantes</title>
+  <programme start="20210403080000 -0600" stop="20210403085000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210404032000 -0600" stop="20210404041000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Refugio en el granero</title>
+  <programme start="20210403085000 -0600" stop="20210403094000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: Los Ángeles</title>
   </programme>
-  <programme start="20210404041000 -0600" stop="20210404050000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guaridas con estilo</title>
+  <programme start="20210403094000 -0600" stop="20210403103000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: New Orleans</title>
   </programme>
-  <programme start="20210404050000 -0600" stop="20210404053000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Misterios del mundo anima</title>
+  <programme start="20210403103000 -0600" stop="20210403113000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Candice renoir</title>
   </programme>
-  <programme start="20210404053000 -0600" stop="20210404062400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Amanda al Rescate</title>
+  <programme start="20210403113000 -0600" stop="20210403123500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Candice renoir</title>
   </programme>
-  <programme start="20210404062400 -0600" stop="20210404071800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Mi gato endemoniado</title>
+  <programme start="20210403123500 -0600" stop="20210403134000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Candice renoir</title>
   </programme>
-  <programme start="20210404071800 -0600" stop="20210404081200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Mi gato endemoniado</title>
+  <programme start="20210403134000 -0600" stop="20210403143000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404081200 -0600" stop="20210404090600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Evan a lo salvaje</title>
+  <programme start="20210403143000 -0600" stop="20210403152000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404090600 -0600" stop="20210404100000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Evan a lo salvaje</title>
+  <programme start="20210403152000 -0600" stop="20210403161000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404100000 -0600" stop="20210404105400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210403161000 -0600" stop="20210403170000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404105400 -0600" stop="20210404114800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210403170000 -0600" stop="20210403175000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404114800 -0600" stop="20210404124100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Islas de Indonesia</title>
+  <programme start="20210403175000 -0600" stop="20210403184000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404124100 -0600" stop="20210404130800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210403184000 -0600" stop="20210403193000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404130800 -0600" stop="20210404133500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210403193000 -0600" stop="20210403202000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404133500 -0600" stop="20210404142900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Brown Veterinario.</title>
+  <programme start="20210403202000 -0600" stop="20210403211000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404142900 -0600" stop="20210404152300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Brown Veterinario.</title>
+  <programme start="20210403211000 -0600" stop="20210403220000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404152300 -0600" stop="20210404161600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El último de su especie</title>
+  <programme start="20210403220000 -0600" stop="20210403235000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">xXx 2 Estado de emergencia</title>
   </programme>
-  <programme start="20210404161600 -0600" stop="20210404171000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El último de su especie</title>
+  <programme start="20210403235000 -0600" stop="20210404004400 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210404171000 -0600" stop="20210404180300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Mansiones en los Árboles</title>
+  <programme start="20210404004400 -0600" stop="20210404014000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210404180300 -0600" stop="20210404185500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Mansiones en los Árboles</title>
+  <programme start="20210404014000 -0600" stop="20210404022500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI: Miami</title>
   </programme>
-  <programme start="20210404185500 -0600" stop="20210404194900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Piscinas increíbles</title>
+  <programme start="20210404022500 -0600" stop="20210404031500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404194900 -0600" stop="20210404204100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Piscinas increíbles</title>
+  <programme start="20210404031500 -0600" stop="20210404040500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404204100 -0600" stop="20210404213300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El genio de las piscinas</title>
+  <programme start="20210404040500 -0600" stop="20210404050000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404213300 -0600" stop="20210404215900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Los reyes de las piscinas</title>
+  <programme start="20210404050000 -0600" stop="20210404055000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404215900 -0600" stop="20210404222500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Los reyes de las piscinas</title>
+  <programme start="20210404055000 -0600" stop="20210404064000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404222500 -0600" stop="20210404231800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Con el agua al cuello</title>
+  <programme start="20210404064000 -0600" stop="20210404073000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210404231800 -0600" stop="20210405000800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guaridas con estilo</title>
+  <programme start="20210404073000 -0600" stop="20210404082000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210405000800 -0600" stop="20210405010100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210404082000 -0600" stop="20210404091000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: Los Ángeles</title>
   </programme>
-  <programme start="20210405010100 -0600" stop="20210405012700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210404091000 -0600" stop="20210404100000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: New Orleans</title>
   </programme>
-  <programme start="20210405012700 -0600" stop="20210405015400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210404100000 -0600" stop="20210404105000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: New Orleans</title>
   </programme>
-  <programme start="20210405015400 -0600" stop="20210405024400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Ríos de África</title>
+  <programme start="20210404105000 -0600" stop="20210404114500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: New Orleans</title>
   </programme>
-  <programme start="20210405024400 -0600" stop="20210405033700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Con el agua al cuello</title>
+  <programme start="20210404114500 -0600" stop="20210404124000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210405033700 -0600" stop="20210405040300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Los reyes de las piscinas</title>
+  <programme start="20210404124000 -0600" stop="20210404133500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210405040300 -0600" stop="20210405050000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Los reyes de las piscinas</title>
+  <programme start="20210404133500 -0600" stop="20210404143000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210405050000 -0600" stop="20210405052700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Misterios del mundo anima</title>
+  <programme start="20210404143000 -0600" stop="20210404152500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210405052700 -0600" stop="20210405061900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Genios constructores</title>
+  <programme start="20210404152500 -0600" stop="20210404162000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210405061900 -0600" stop="20210405071100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Genios constructores</title>
+  <programme start="20210404162000 -0600" stop="20210404171500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210405071100 -0600" stop="20210405080300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Genios constructores</title>
+  <programme start="20210404171500 -0600" stop="20210404190500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">xXx 2 Estado de emergencia</title>
   </programme>
-  <programme start="20210405080300 -0600" stop="20210405085700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210404190500 -0600" stop="20210404213000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">El Justiciero (The Equalizer)</title>
   </programme>
-  <programme start="20210405085700 -0600" stop="20210405092400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210404213000 -0600" stop="20210404222000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210405092400 -0600" stop="20210405095200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210404222000 -0600" stop="20210404231500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: New Orleans</title>
   </programme>
-  <programme start="20210405095200 -0600" stop="20210405104600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Ríos de África</title>
+  <programme start="20210404231500 -0600" stop="20210405001000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210405104600 -0600" stop="20210405114000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210405001000 -0600" stop="20210405010500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210405114000 -0600" stop="20210405123400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210405010500 -0600" stop="20210405020000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI: Miami</title>
   </programme>
-  <programme start="20210405123400 -0600" stop="20210405132800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Solo y en peligro</title>
+  <programme start="20210405020000 -0600" stop="20210405030000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI</title>
   </programme>
-  <programme start="20210405132800 -0600" stop="20210405142200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Solo y en peligro</title>
+  <programme start="20210405030000 -0600" stop="20210405040000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI</title>
   </programme>
-  <programme start="20210405142200 -0600" stop="20210405151600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dinosaurios modernos</title>
+  <programme start="20210405040000 -0600" stop="20210405050000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI</title>
   </programme>
-  <programme start="20210405151600 -0600" stop="20210405154200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Borneo</title>
+  <programme start="20210405050000 -0600" stop="20210405054500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI</title>
   </programme>
-  <programme start="20210405154200 -0600" stop="20210405161000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Borneo</title>
+  <programme start="20210405054500 -0600" stop="20210405063000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI</title>
   </programme>
-  <programme start="20210405161000 -0600" stop="20210405170400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Europa salvaje</title>
+  <programme start="20210405063000 -0600" stop="20210405072000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI</title>
   </programme>
-  <programme start="20210405170400 -0600" stop="20210405175800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank en África</title>
+  <programme start="20210405072000 -0600" stop="20210405081000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210405175800 -0600" stop="20210405185100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210405081000 -0600" stop="20210405090000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210405185100 -0600" stop="20210405194400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río</title>
+  <programme start="20210405090000 -0600" stop="20210405095000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210405194400 -0600" stop="20210405203700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río</title>
+  <programme start="20210405095000 -0600" stop="20210405104000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210405203700 -0600" stop="20210405213000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río</title>
+  <programme start="20210405104000 -0600" stop="20210405113000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210405213000 -0600" stop="20210405222300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El zoológico del Bronx</title>
+  <programme start="20210405113000 -0600" stop="20210405122000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210405222300 -0600" stop="20210405231600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El acuario</title>
+  <programme start="20210405122000 -0600" stop="20210405131000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210405231600 -0600" stop="20210406000900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río</title>
+  <programme start="20210405131000 -0600" stop="20210405140000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210406231600 -0600" stop="20210407000900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río</title>
+  <programme start="20210405140000 -0600" stop="20210405145000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407000900 -0600" stop="20210407010200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210405145000 -0600" stop="20210405154000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407010200 -0600" stop="20210407012800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210405154000 -0600" stop="20210405163000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407012800 -0600" stop="20210407015500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210405163000 -0600" stop="20210405172000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407015500 -0600" stop="20210407024600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Ríos de África</title>
+  <programme start="20210405172000 -0600" stop="20210405181000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407024600 -0600" stop="20210407033700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El acuario</title>
+  <programme start="20210405181000 -0600" stop="20210405190000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407033700 -0600" stop="20210407050000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El zoológico del Bronx</title>
+  <programme start="20210405190000 -0600" stop="20210405200000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Candice renoir</title>
   </programme>
-  <programme start="20210407050000 -0600" stop="20210407052700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Misterios del mundo anim</title>
+  <programme start="20210405200000 -0600" stop="20210405210000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Candice renoir</title>
   </programme>
-  <programme start="20210407052700 -0600" stop="20210407062100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guaridas con estilo</title>
+  <programme start="20210405210000 -0600" stop="20210405215500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Harrow</title>
   </programme>
-  <programme start="20210407062100 -0600" stop="20210407071500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guaridas con estilo</title>
+  <programme start="20210405215500 -0600" stop="20210405225000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407071500 -0600" stop="20210407080700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guaridas con estilo</title>
+  <programme start="20210405225000 -0600" stop="20210405234500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407080700 -0600" stop="20210407090200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210405234500 -0600" stop="20210406004000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407090200 -0600" stop="20210407092900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210406004000 -0600" stop="20210406013500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407092900 -0600" stop="20210407095700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210406013500 -0600" stop="20210406022500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407095700 -0600" stop="20210407105100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Ríos de África</title>
+  <programme start="20210406022500 -0600" stop="20210406031500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407105100 -0600" stop="20210407114500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210406031500 -0600" stop="20210406040500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407114500 -0600" stop="20210407123900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210406040500 -0600" stop="20210406050000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407123900 -0600" stop="20210407133300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank Tras la evolución</title>
+  <programme start="20210406050000 -0600" stop="20210406054500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407133300 -0600" stop="20210407142700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank en México</title>
+  <programme start="20210406054500 -0600" stop="20210406063500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407142700 -0600" stop="20210407152100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210406063500 -0600" stop="20210406072500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407152100 -0600" stop="20210407161200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210406072500 -0600" stop="20210406081500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407161200 -0600" stop="20210407170300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca de gigantes</title>
+  <programme start="20210406081500 -0600" stop="20210406090500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407170300 -0600" stop="20210407175800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank en África</title>
+  <programme start="20210406090500 -0600" stop="20210406095500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407175800 -0600" stop="20210407185100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210406095500 -0600" stop="20210406104500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407185100 -0600" stop="20210407194400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río</title>
+  <programme start="20210406104500 -0600" stop="20210406113500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407194400 -0600" stop="20210407203700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Invasores</title>
+  <programme start="20210406113500 -0600" stop="20210406122500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407203700 -0600" stop="20210407213000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210406122500 -0600" stop="20210406131500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407213000 -0600" stop="20210407222300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210406131500 -0600" stop="20210406140500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407222300 -0600" stop="20210407231600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210406140500 -0600" stop="20210406145500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210407231600 -0600" stop="20210408000900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210406145500 -0600" stop="20210406154500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210408231600 -0600" stop="20210409000900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210406154500 -0600" stop="20210406163500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409000900 -0600" stop="20210409010200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210406163500 -0600" stop="20210406172500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409010200 -0600" stop="20210409012800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210406172500 -0600" stop="20210406181500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409012800 -0600" stop="20210409015500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210406181500 -0600" stop="20210406190500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409015500 -0600" stop="20210409024600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Oriente Medio salvaje</title>
+  <programme start="20210406190500 -0600" stop="20210406195500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210409024600 -0600" stop="20210409033900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210406195500 -0600" stop="20210406204500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210409033900 -0600" stop="20210409050000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210406204500 -0600" stop="20210406213500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210409050000 -0600" stop="20210409052700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Misterios del mundo anim</title>
+  <programme start="20210406213500 -0600" stop="20210406222500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Scorpion</title>
   </programme>
-  <programme start="20210409052700 -0600" stop="20210409062100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Jeff, veterinario</title>
+  <programme start="20210406222500 -0600" stop="20210406232000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Scorpion</title>
   </programme>
-  <programme start="20210409062100 -0600" stop="20210409071500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Jeff, veterinario</title>
+  <programme start="20210406232000 -0600" stop="20210407001500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409071500 -0600" stop="20210409081000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Jeff, veterinario</title>
+  <programme start="20210407001500 -0600" stop="20210407011000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409081000 -0600" stop="20210409090300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210407011000 -0600" stop="20210407020500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409090300 -0600" stop="20210409092900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210407020500 -0600" stop="20210407030000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409092900 -0600" stop="20210409095600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210407030000 -0600" stop="20210407040000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409095600 -0600" stop="20210409104900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Oriente Medio salvaje</title>
+  <programme start="20210407040000 -0600" stop="20210407050000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409104900 -0600" stop="20210409114200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210407050000 -0600" stop="20210407054500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210409114200 -0600" stop="20210409123500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210407054500 -0600" stop="20210407063500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210409123500 -0600" stop="20210409132800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Planeta mutante</title>
+  <programme start="20210407063500 -0600" stop="20210407072500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210409132800 -0600" stop="20210409142100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Planeta mutante</title>
+  <programme start="20210407072500 -0600" stop="20210407081500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409142100 -0600" stop="20210409151400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210407081500 -0600" stop="20210407090500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409151400 -0600" stop="20210409160700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Lobos</title>
+  <programme start="20210407090500 -0600" stop="20210407095500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409160700 -0600" stop="20210409170000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Islas de Indonesia</title>
+  <programme start="20210407095500 -0600" stop="20210407104500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409170000 -0600" stop="20210409175300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank en África</title>
+  <programme start="20210407104500 -0600" stop="20210407113500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409175300 -0600" stop="20210409184500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210407113500 -0600" stop="20210407122500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409184500 -0600" stop="20210409193700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río</title>
+  <programme start="20210407122500 -0600" stop="20210407131500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409193700 -0600" stop="20210409202900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Ríos de África</title>
+  <programme start="20210407131500 -0600" stop="20210407140500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409202900 -0600" stop="20210409212100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El último de su especie</title>
+  <programme start="20210407140500 -0600" stop="20210407145500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409212100 -0600" stop="20210409221300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank: al rescate</title>
+  <programme start="20210407145500 -0600" stop="20210407154500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409221300 -0600" stop="20210409230500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Refugio en el granero</title>
+  <programme start="20210407154500 -0600" stop="20210407163500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409230500 -0600" stop="20210409235800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">El último de su especie</title>
+  <programme start="20210407163500 -0600" stop="20210407172500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210409235800 -0600" stop="20210410004900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210407172500 -0600" stop="20210407181500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410004900 -0600" stop="20210410014000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210407181500 -0600" stop="20210407190500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410014000 -0600" stop="20210410023000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Indochina salvaje</title>
+  <programme start="20210407190500 -0600" stop="20210407200000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210410023000 -0600" stop="20210410032000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Refugio en el granero</title>
+  <programme start="20210407200000 -0600" stop="20210407205000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS</title>
   </programme>
-  <programme start="20210410032000 -0600" stop="20210410041000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank: al rescate</title>
+  <programme start="20210407205000 -0600" stop="20210407214000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: New Orleans</title>
   </programme>
-  <programme start="20210410041000 -0600" stop="20210410050000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Ríos de África</title>
+  <programme start="20210407214000 -0600" stop="20210407223000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: Los Ángeles</title>
   </programme>
-  <programme start="20210410050000 -0600" stop="20210410053000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Misterios del mundo anim</title>
+  <programme start="20210407223000 -0600" stop="20210407232500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410053000 -0600" stop="20210410062400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Brown Veterinario.</title>
+  <programme start="20210407232500 -0600" stop="20210408002000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410062400 -0600" stop="20210410071700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Dr. Brown Veterinario.</title>
+  <programme start="20210408002000 -0600" stop="20210408011500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410071700 -0600" stop="20210410081000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210408011500 -0600" stop="20210408021000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410081000 -0600" stop="20210410090300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210408021000 -0600" stop="20210408030500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410090300 -0600" stop="20210410095600 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Coyote Peterson aventuras sa</title>
+  <programme start="20210408030500 -0600" stop="20210408040000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410095600 -0600" stop="20210410104900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Indochina salvaje</title>
+  <programme start="20210408040000 -0600" stop="20210408050000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410104900 -0600" stop="20210410114200 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210408050000 -0600" stop="20210408054500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210410114200 -0600" stop="20210410123500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210408054500 -0600" stop="20210408063500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210410123500 -0600" stop="20210410132800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Evan a lo salvaje</title>
+  <programme start="20210408063500 -0600" stop="20210408072500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20210410132800 -0600" stop="20210410142100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Evan a lo salvaje</title>
+  <programme start="20210408072500 -0600" stop="20210408081500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410142100 -0600" stop="20210410151400 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca de gigantes</title>
+  <programme start="20210408081500 -0600" stop="20210408090500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410151400 -0600" stop="20210410160700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Historias de grandes felinos</title>
+  <programme start="20210408090500 -0600" stop="20210408095500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410160700 -0600" stop="20210410170000 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Ríos de África</title>
+  <programme start="20210408095500 -0600" stop="20210408104500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410170000 -0600" stop="20210410175300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Wild Frank: al rescate</title>
+  <programme start="20210408104500 -0600" stop="20210408113500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410175300 -0600" stop="20210410184500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Pesca mortal</title>
+  <programme start="20210408113500 -0600" stop="20210408122500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410184500 -0600" stop="20210410193700 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Monstruos de río</title>
+  <programme start="20210408122500 -0600" stop="20210408131500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410193700 -0600" stop="20210410202900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Europa salvaje</title>
+  <programme start="20210408131500 -0600" stop="20210408140500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410202900 -0600" stop="20210410212100 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Oriente Medio salvaje</title>
+  <programme start="20210408140500 -0600" stop="20210408145500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410212100 -0600" stop="20210410221300 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Visión animal</title>
+  <programme start="20210408145500 -0600" stop="20210408154500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410221300 -0600" stop="20210410230500 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Grandes felinos</title>
+  <programme start="20210408154500 -0600" stop="20210408163500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410230500 -0600" stop="20210410235800 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Mansiones en los Árboles</title>
+  <programme start="20210408163500 -0600" stop="20210408172500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
-  <programme start="20210410235800 -0600" stop="20210411004900 -0600" channel="PREMIUM FHD |  ANIMAL PLANET">
-    <title lang="es">Guardianes de Texas</title>
+  <programme start="20210408172500 -0600" stop="20210408181500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210408181500 -0600" stop="20210408190500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210408190500 -0600" stop="20210408195500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Castle</title>
+  </programme>
+  <programme start="20210408195500 -0600" stop="20210408204500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Castle</title>
+  </programme>
+  <programme start="20210408204500 -0600" stop="20210408213500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Castle</title>
+  </programme>
+  <programme start="20210408213500 -0600" stop="20210408224000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Candice renoir</title>
+  </programme>
+  <programme start="20210408224000 -0600" stop="20210408234000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Candice renoir</title>
+  </programme>
+  <programme start="20210408234000 -0600" stop="20210409003500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409003500 -0600" stop="20210409013000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409013000 -0600" stop="20210409022500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409022500 -0600" stop="20210409031500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409031500 -0600" stop="20210409040500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409040500 -0600" stop="20210409050000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409050000 -0600" stop="20210409054500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210409054500 -0600" stop="20210409063500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210409063500 -0600" stop="20210409072500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210409072500 -0600" stop="20210409081500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409081500 -0600" stop="20210409090500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409090500 -0600" stop="20210409095500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409095500 -0600" stop="20210409104500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409104500 -0600" stop="20210409113500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409113500 -0600" stop="20210409122500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409122500 -0600" stop="20210409131500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409131500 -0600" stop="20210409140500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409140500 -0600" stop="20210409145500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409145500 -0600" stop="20210409154500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409154500 -0600" stop="20210409163500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409163500 -0600" stop="20210409172500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409172500 -0600" stop="20210409181500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409181500 -0600" stop="20210409190500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409190500 -0600" stop="20210409200000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210409200000 -0600" stop="20210409210000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210409210000 -0600" stop="20210409215500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210409215500 -0600" stop="20210409225000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210409225000 -0600" stop="20210409234500 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210409234500 -0600" stop="20210410004000 -0600" channel="DUAL | AXN FHD">
+    <title lang="es">Criminal Minds</title>
   </programme>
 </tv>
