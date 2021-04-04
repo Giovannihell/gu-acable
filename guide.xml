@@ -32,16 +32,68 @@
     <display-name lang="es">DUAL | HBO 2 FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="DUAL | HBO FAMILY FHD">
-    <display-name lang="es">DUAL | HBO FAMILY FHD</display-name>
-    <url>http://www.mi.tv</url>
-  </channel>
   <channel id="DUAL | HBO FHD">
     <display-name lang="es">DUAL | HBO FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DUAL | HBO PLUS FHD">
     <display-name lang="es">DUAL | HBO PLUS FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DUAL | CINECANAL FHD">
+    <display-name lang="es">DUAL | CINECANAL FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DUAL | HBO XTREME FHD">
+    <display-name lang="es">DUAL | HBO XTREME FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DUAL | NAT GEO FHD">
+    <display-name lang="es">DUAL | NAT GEO FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DUAL | SPACE FHD">
+    <display-name lang="es">DUAL | SPACE FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DUAL | WARNER CHANNEL FHD">
+    <display-name lang="es">DUAL | WARNER CHANNEL FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="PREMIUM HD |  GOLDEN">
+    <display-name lang="es">PREMIUM HD |  GOLDEN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="PREMIUM HD |  GOLDEN PLUS">
+    <display-name lang="es">PREMIUM HD |  GOLDEN PLUS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="PREMIUM HD |  HISTORY 2">
+    <display-name lang="es">PREMIUM HD |  HISTORY 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEPORTES HD | SKY SPORT PREMIER">
+    <display-name lang="es">DEPORTES HD | SKY SPORT PREMIER</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <display-name lang="es">DEPORTES HD | BEIN SPORTS LA LIGA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CHILE HD | LA RED">
+    <display-name lang="es">CHILE HD | LA RED</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CR | TELETICA CANAL 7">
+    <display-name lang="es">CR | TELETICA CANAL 7</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CR | CANAL 6 REPRETEL">
+    <display-name lang="es">CR | CANAL 6 REPRETEL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | CANAL 5">
+    <display-name lang="es">MX | CANAL 5</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20210403001700 -0600" stop="20210403011000 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
@@ -2830,5 +2882,3197 @@
   </programme>
   <programme start="20210407173000 -0600" stop="20210407192000 -0600" channel="DUAL | HBO PLUS FHD">
     <title lang="es">Ma (2019)</title>
+  </programme>
+  <programme start="20210403003700 -0600" stop="20210403023700 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Ad Astra</title>
+  </programme>
+  <programme start="20210403023700 -0600" stop="20210403041000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Adultos Jovenes</title>
+  </programme>
+  <programme start="20210403041000 -0600" stop="20210403053400 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Parque Mágico</title>
+  </programme>
+  <programme start="20210403053400 -0600" stop="20210403081600 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210403081600 -0600" stop="20210403095100 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Mi vida en ruinas</title>
+  </programme>
+  <programme start="20210403095100 -0600" stop="20210403111000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Shopkins Viajan por el Mundo</title>
+  </programme>
+  <programme start="20210403111000 -0600" stop="20210403125700 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Regreso del todopoderoso</title>
+  </programme>
+  <programme start="20210403125700 -0600" stop="20210403145200 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Dora y la Ciudad Perdida</title>
+  </programme>
+  <programme start="20210403145200 -0600" stop="20210403163700 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  </programme>
+  <programme start="20210403163700 -0600" stop="20210403192400 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Transformers</title>
+  </programme>
+  <programme start="20210403192400 -0600" stop="20210403220000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Los Juegos del Hambre: En Llamas</title>
+  </programme>
+  <programme start="20210403220000 -0600" stop="20210403235800 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Titanes del Pacífico 2</title>
+  </programme>
+  <programme start="20210403235800 -0600" stop="20210404015700 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La guerra de los mundos</title>
+  </programme>
+  <programme start="20210404235800 -0600" stop="20210405015700 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La guerra de los mundos</title>
+  </programme>
+  <programme start="20210405015700 -0600" stop="20210405023200 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Alien vs. Depredador</title>
+  </programme>
+  <programme start="20210405023200 -0600" stop="20210405040400 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Adultos Jovenes</title>
+  </programme>
+  <programme start="20210405040400 -0600" stop="20210405062400 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210405062400 -0600" stop="20210405075800 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Leones por corderos</title>
+  </programme>
+  <programme start="20210405075800 -0600" stop="20210405092700 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Shaun, el cordero: La película</title>
+  </programme>
+  <programme start="20210405092700 -0600" stop="20210405110500 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Esto apenas comienza</title>
+  </programme>
+  <programme start="20210405110500 -0600" stop="20210405125800 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Drillbit taylor</title>
+  </programme>
+  <programme start="20210405125800 -0600" stop="20210405144900 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Las Tortugas Ninja 2</title>
+  </programme>
+  <programme start="20210405144900 -0600" stop="20210405164400 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Jumanji</title>
+  </programme>
+  <programme start="20210405164400 -0600" stop="20210405184100 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Titanes del Pacífico 2</title>
+  </programme>
+  <programme start="20210405184100 -0600" stop="20210405210000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Terminator Génesis</title>
+  </programme>
+  <programme start="20210405210000 -0600" stop="20210405231100 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Jurassic World-Mundo Jurásico</title>
+  </programme>
+  <programme start="20210405231100 -0600" stop="20210406005900 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210406231100 -0600" stop="20210407005900 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210407005900 -0600" stop="20210407025900 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Ad Astra</title>
+  </programme>
+  <programme start="20210407025900 -0600" stop="20210407045500 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Amor ciego</title>
+  </programme>
+  <programme start="20210407045500 -0600" stop="20210407065600 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210407065600 -0600" stop="20210407090100 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Ella</title>
+  </programme>
+  <programme start="20210407090100 -0600" stop="20210407104600 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Imagínatelo</title>
+  </programme>
+  <programme start="20210407104600 -0600" stop="20210407121000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Todos los perros van al cielo2</title>
+  </programme>
+  <programme start="20210407121000 -0600" stop="20210407135200 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Alvin y las ardillas 2</title>
+  </programme>
+  <programme start="20210407135200 -0600" stop="20210407154200 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Casper</title>
+  </programme>
+  <programme start="20210407154200 -0600" stop="20210407173200 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Drillbit taylor</title>
+  </programme>
+  <programme start="20210407173200 -0600" stop="20210407191400 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Angry Birds: La película</title>
+  </programme>
+  <programme start="20210407191400 -0600" stop="20210407210000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  </programme>
+  <programme start="20210407210000 -0600" stop="20210407223600 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Home No hay lugar como</title>
+  </programme>
+  <programme start="20210407223600 -0600" stop="20210408003000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Espía por error</title>
+  </programme>
+  <programme start="20210408223600 -0600" stop="20210409003000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Espía por error</title>
+  </programme>
+  <programme start="20210409003000 -0600" stop="20210409023000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Misión Babilonia</title>
+  </programme>
+  <programme start="20210409023000 -0600" stop="20210409042000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Parque Mágico</title>
+  </programme>
+  <programme start="20210409042000 -0600" stop="20210409060000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">En busca de Santa Claus</title>
+  </programme>
+  <programme start="20210409060000 -0600" stop="20210409080000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Madea protección de testigos</title>
+  </programme>
+  <programme start="20210409080000 -0600" stop="20210409095000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Leones por corderos</title>
+  </programme>
+  <programme start="20210409095000 -0600" stop="20210409115000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Los Pitufos 2</title>
+  </programme>
+  <programme start="20210409115000 -0600" stop="20210409134000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Nacho libre</title>
+  </programme>
+  <programme start="20210409134000 -0600" stop="20210409162000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Atrapame si puedes</title>
+  </programme>
+  <programme start="20210409162000 -0600" stop="20210409184000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Terminator Génesis</title>
+  </programme>
+  <programme start="20210409184000 -0600" stop="20210409210000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Miss Peregrine y los niños</title>
+  </programme>
+  <programme start="20210409210000 -0600" stop="20210409225000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Infierno en la Tormenta</title>
+  </programme>
+  <programme start="20210409225000 -0600" stop="20210410010000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">El Cisne negro</title>
+  </programme>
+  <programme start="20210410010000 -0600" stop="20210410031000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210410031000 -0600" stop="20210410060000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Hasta Pronto, Christopher Robin</title>
+  </programme>
+  <programme start="20210410060000 -0600" stop="20210410084000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Parque Mágico</title>
+  </programme>
+  <programme start="20210410084000 -0600" stop="20210410103000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">En busca de Santa Claus</title>
+  </programme>
+  <programme start="20210410103000 -0600" stop="20210410124000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La Llegada (2016)</title>
+  </programme>
+  <programme start="20210410124000 -0600" stop="20210410144000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Jumanji</title>
+  </programme>
+  <programme start="20210410144000 -0600" stop="20210410163000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Tripulación Dave</title>
+  </programme>
+  <programme start="20210410163000 -0600" stop="20210410182000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Misión Babilonia</title>
+  </programme>
+  <programme start="20210410182000 -0600" stop="20210410210000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Hulk</title>
+  </programme>
+  <programme start="20210410210000 -0600" stop="20210410231000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Al diablo con las noticias</title>
+  </programme>
+  <programme start="20210410231000 -0600" stop="20210411012000 -0600" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20210403000100 -0600" stop="20210403014300 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Zombieland: Tiro de Gracia</title>
+  </programme>
+  <programme start="20210403014300 -0600" stop="20210403031100 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">La noche de la expiación</title>
+  </programme>
+  <programme start="20210403031100 -0600" stop="20210403044500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El auto: Camino a la venganza</title>
+  </programme>
+  <programme start="20210403044500 -0600" stop="20210403064600 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El Exorcista 2 El hereje</title>
+  </programme>
+  <programme start="20210403064600 -0600" stop="20210403084500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Juegos Diabólicos</title>
+  </programme>
+  <programme start="20210403084500 -0600" stop="20210403103000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Soy Leyenda</title>
+  </programme>
+  <programme start="20210403103000 -0600" stop="20210403120300 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Solo dios perdona</title>
+  </programme>
+  <programme start="20210403120300 -0600" stop="20210403134000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Desde París con amor</title>
+  </programme>
+  <programme start="20210403134000 -0600" stop="20210403153300 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Contrabando</title>
+  </programme>
+  <programme start="20210403153300 -0600" stop="20210403173500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">47 Ronin: La Leyenda del Samurái</title>
+  </programme>
+  <programme start="20210403173500 -0600" stop="20210403204500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Harriet</title>
+  </programme>
+  <programme start="20210403204500 -0600" stop="20210403230000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El caso de Richard Jewell</title>
+  </programme>
+  <programme start="20210403230000 -0600" stop="20210404012500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Huérfanos de Brooklyn</title>
+  </programme>
+  <programme start="20210404230000 -0600" stop="20210405012500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Huérfanos de Brooklyn</title>
+  </programme>
+  <programme start="20210405012500 -0600" stop="20210405030000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El último Samurai</title>
+  </programme>
+  <programme start="20210405030000 -0600" stop="20210405060000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El mensajero</title>
+  </programme>
+  <programme start="20210405060000 -0600" stop="20210405080800 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El castigador</title>
+  </programme>
+  <programme start="20210405080800 -0600" stop="20210405100000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Aves de presa</title>
+  </programme>
+  <programme start="20210405100000 -0600" stop="20210405114200 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Zombieland: Tiro de Gracia</title>
+  </programme>
+  <programme start="20210405114200 -0600" stop="20210405132000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Sniper Assassin's end</title>
+  </programme>
+  <programme start="20210405132000 -0600" stop="20210405151200 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Aves de presa</title>
+  </programme>
+  <programme start="20210405151200 -0600" stop="20210405172500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Spider-Man: Lejos de Casa</title>
+  </programme>
+  <programme start="20210405172500 -0600" stop="20210405190600 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Zombieland: Tiro de Gracia</title>
+  </programme>
+  <programme start="20210405190600 -0600" stop="20210405200300 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Jett</title>
+  </programme>
+  <programme start="20210405200300 -0600" stop="20210405210500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Jett</title>
+  </programme>
+  <programme start="20210405210500 -0600" stop="20210405224500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Sniper Assassin's end</title>
+  </programme>
+  <programme start="20210405224500 -0600" stop="20210406010000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Spider-Man: Lejos de Casa</title>
+  </programme>
+  <programme start="20210406224500 -0600" stop="20210407010000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Spider-Man: Lejos de Casa</title>
+  </programme>
+  <programme start="20210407010000 -0600" stop="20210407024600 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Soy Leyenda</title>
+  </programme>
+  <programme start="20210407024600 -0600" stop="20210407042200 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">The New Kids</title>
+  </programme>
+  <programme start="20210407042200 -0600" stop="20210407060000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Hijos de la mafia</title>
+  </programme>
+  <programme start="20210407060000 -0600" stop="20210407073600 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Desde París con amor</title>
+  </programme>
+  <programme start="20210407073600 -0600" stop="20210407100000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El Robo Perfecto</title>
+  </programme>
+  <programme start="20210407100000 -0600" stop="20210407114000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Hardcore misión extrema</title>
+  </programme>
+  <programme start="20210407114000 -0600" stop="20210407133500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20210407133500 -0600" stop="20210407154000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20210407154000 -0600" stop="20210407173000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Obsesión</title>
+  </programme>
+  <programme start="20210407173000 -0600" stop="20210407191000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Hardcore misión extrema</title>
+  </programme>
+  <programme start="20210407191000 -0600" stop="20210407210300 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20210407210300 -0600" stop="20210407232500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El Robo Perfecto</title>
+  </programme>
+  <programme start="20210407232500 -0600" stop="20210408013000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20210408232500 -0600" stop="20210409013000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20210409013000 -0600" stop="20210409034000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Dragón Rojo</title>
+  </programme>
+  <programme start="20210409034000 -0600" stop="20210409054000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Medidas Extremas</title>
+  </programme>
+  <programme start="20210409054000 -0600" stop="20210409073500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El internado</title>
+  </programme>
+  <programme start="20210409073500 -0600" stop="20210409093500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Juegos Diabólicos</title>
+  </programme>
+  <programme start="20210409093500 -0600" stop="20210409111500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Almas perdidas</title>
+  </programme>
+  <programme start="20210409111500 -0600" stop="20210409124300 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El despertar del diablo</title>
+  </programme>
+  <programme start="20210409124300 -0600" stop="20210409142000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">El bosque siniestro</title>
+  </programme>
+  <programme start="20210409142000 -0600" stop="20210409161000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20210409161000 -0600" stop="20210409175000 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Presencias del Mal</title>
+  </programme>
+  <programme start="20210409175000 -0600" stop="20210409192200 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Un deseo mortal</title>
+  </programme>
+  <programme start="20210409192200 -0600" stop="20210409210500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Furia de Titanes 2</title>
+  </programme>
+  <programme start="20210409210500 -0600" stop="20210409224500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Corazón de dragón La venganza</title>
+  </programme>
+  <programme start="20210409224500 -0600" stop="20210410003500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20210410224500 -0600" stop="20210411003500 -0600" channel="DUAL | HBO XTREME FHD">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20210403003500 -0600" stop="20210403012800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Contrabandistas con Mariana V</title>
+  </programme>
+  <programme start="20210403012800 -0600" stop="20210403021500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catástrofes Aérea</title>
+  </programme>
+  <programme start="20210403021500 -0600" stop="20210403025900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210403025900 -0600" stop="20210403034600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alaska Los Nuevos Pioneros T</title>
+  </programme>
+  <programme start="20210403034600 -0600" stop="20210403043400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Los expedientes antiguos</title>
+  </programme>
+  <programme start="20210403043400 -0600" stop="20210403052400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Contrabandistas con Mariana V</title>
+  </programme>
+  <programme start="20210403052400 -0600" stop="20210403060900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210403060900 -0600" stop="20210403063100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403063100 -0600" stop="20210403070000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403070000 -0600" stop="20210403072600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210403072600 -0600" stop="20210403075200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210403075200 -0600" stop="20210403084100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210403084100 -0600" stop="20210403090300 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403090300 -0600" stop="20210403093000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403093000 -0600" stop="20210403095400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403095400 -0600" stop="20210403101900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403101900 -0600" stop="20210403110900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403110900 -0600" stop="20210403115700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20210403115700 -0600" stop="20210403121700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Nat Geo Lab LatAm</title>
+  </programme>
+  <programme start="20210403121700 -0600" stop="20210403130800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20210403130800 -0600" stop="20210403140000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20210403140000 -0600" stop="20210403145200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20210403145200 -0600" stop="20210403154400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20210403154400 -0600" stop="20210403163600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20210403163600 -0600" stop="20210403172600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20210403172600 -0600" stop="20210403181500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20210403181500 -0600" stop="20210403190100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La nueva ruta de la seda</title>
+  </programme>
+  <programme start="20210403190100 -0600" stop="20210403200000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Reconstrucciones Asombrosas</title>
+  </programme>
+  <programme start="20210403200000 -0600" stop="20210403202100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403202100 -0600" stop="20210403204700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210403204700 -0600" stop="20210403213800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Explorer La Iglesia</title>
+  </programme>
+  <programme start="20210403213800 -0600" stop="20210403223300 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">¿Tocados por Jesús</title>
+  </programme>
+  <programme start="20210403223300 -0600" stop="20210403231600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210403231600 -0600" stop="20210404000600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210404000600 -0600" stop="20210404005300 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210404005300 -0600" stop="20210404014100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La nueva ruta de la seda</title>
+  </programme>
+  <programme start="20210404014100 -0600" stop="20210404022400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Reconstrucciones Asombrosas</title>
+  </programme>
+  <programme start="20210404022400 -0600" stop="20210404031100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">¿Tocados por Jesús</title>
+  </programme>
+  <programme start="20210404031100 -0600" stop="20210404035700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210404035700 -0600" stop="20210404044300 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210404044300 -0600" stop="20210404060000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210404060000 -0600" stop="20210404062800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210404062800 -0600" stop="20210404071500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210404071500 -0600" stop="20210404073800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210404073800 -0600" stop="20210404082800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210404082800 -0600" stop="20210404085000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210404085000 -0600" stop="20210404091600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210404091600 -0600" stop="20210404093900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La Ciencia de lo Absurd</title>
+  </programme>
+  <programme start="20210404093900 -0600" stop="20210404100100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210404100100 -0600" stop="20210404103000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210404103000 -0600" stop="20210404111900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Los 90</title>
+  </programme>
+  <programme start="20210404111900 -0600" stop="20210404114300 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaindustria de Aliment</title>
+  </programme>
+  <programme start="20210404114300 -0600" stop="20210404120400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaindustria de Aliment</title>
+  </programme>
+  <programme start="20210404120400 -0600" stop="20210404135400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Harvey Weinstein El Intocable</title>
+  </programme>
+  <programme start="20210404135400 -0600" stop="20210404154600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Frida, Viva La Vida</title>
+  </programme>
+  <programme start="20210404154600 -0600" stop="20210404173400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Female Pleasure</title>
+  </programme>
+  <programme start="20210404173400 -0600" stop="20210404182600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210404182600 -0600" stop="20210404191300 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210404191300 -0600" stop="20210404200000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Fronteras al límite</title>
+  </programme>
+  <programme start="20210404200000 -0600" stop="20210404204900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210404204900 -0600" stop="20210404213700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210404213700 -0600" stop="20210404222400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Guerra de narcos</title>
+  </programme>
+  <programme start="20210404222400 -0600" stop="20210404225000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20210404225000 -0600" stop="20210404231200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20210404231200 -0600" stop="20210404235900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20210404235900 -0600" stop="20210405004700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210405004700 -0600" stop="20210405013500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210405013500 -0600" stop="20210405022000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Fronteras al límite</title>
+  </programme>
+  <programme start="20210405022000 -0600" stop="20210405030400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Guerra de narcos</title>
+  </programme>
+  <programme start="20210405030400 -0600" stop="20210405032600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20210405032600 -0600" stop="20210405035200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20210405035200 -0600" stop="20210405043900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210405043900 -0600" stop="20210405050100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210405050100 -0600" stop="20210405052600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210405052600 -0600" stop="20210405060000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210405060000 -0600" stop="20210405062500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210405062500 -0600" stop="20210405064900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210405064900 -0600" stop="20210405071200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210405071200 -0600" stop="20210405080200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210405080200 -0600" stop="20210405082600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210405082600 -0600" stop="20210405085300 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210405085300 -0600" stop="20210405091900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210405091900 -0600" stop="20210405094400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210405094400 -0600" stop="20210405100600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210405100600 -0600" stop="20210405103500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaindustria de Alimento</title>
+  </programme>
+  <programme start="20210405103500 -0600" stop="20210405112800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Construyendo gigantes</title>
+  </programme>
+  <programme start="20210405112800 -0600" stop="20210405121900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Solo contra el Mundo Hazen</title>
+  </programme>
+  <programme start="20210405121900 -0600" stop="20210405130800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20210405130800 -0600" stop="20210405135600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaestructuras nazis</title>
+  </programme>
+  <programme start="20210405135600 -0600" stop="20210405145100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20210405145100 -0600" stop="20210405154200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20210405154200 -0600" stop="20210405163700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Preso en el extranjero</title>
+  </programme>
+  <programme start="20210405163700 -0600" stop="20210405172900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210405172900 -0600" stop="20210405182000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210405182000 -0600" stop="20210405190800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Traficantes</title>
+  </programme>
+  <programme start="20210405190800 -0600" stop="20210405200000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Contrabandistas con Mariana V</title>
+  </programme>
+  <programme start="20210405200000 -0600" stop="20210405204800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catástrofes Aére</title>
+  </programme>
+  <programme start="20210405204800 -0600" stop="20210405213600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210405213600 -0600" stop="20210405222700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210405222700 -0600" stop="20210405231400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Preso en el extranjero</title>
+  </programme>
+  <programme start="20210405231400 -0600" stop="20210406000200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Traficantes</title>
+  </programme>
+  <programme start="20210406231400 -0600" stop="20210407000200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Traficantes</title>
+  </programme>
+  <programme start="20210407000200 -0600" stop="20210407005100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20210407005100 -0600" stop="20210407013800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210407013800 -0600" stop="20210407022800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Contrabandistas con Mariana V</title>
+  </programme>
+  <programme start="20210407022800 -0600" stop="20210407031200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catástrofes Aére</title>
+  </programme>
+  <programme start="20210407031200 -0600" stop="20210407035700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La historia de la mafia Nuev</title>
+  </programme>
+  <programme start="20210407035700 -0600" stop="20210407044400 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210407044400 -0600" stop="20210407050600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210407050600 -0600" stop="20210407053200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210407053200 -0600" stop="20210407060000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210407060000 -0600" stop="20210407062200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210407062200 -0600" stop="20210407064600 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210407064600 -0600" stop="20210407070500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210407070500 -0600" stop="20210407075700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210407075700 -0600" stop="20210407082200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210407082200 -0600" stop="20210407084700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210407084700 -0600" stop="20210407091200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210407091200 -0600" stop="20210407093700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210407093700 -0600" stop="20210407095700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210407095700 -0600" stop="20210407102200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaindustria de Alimento</title>
+  </programme>
+  <programme start="20210407102200 -0600" stop="20210407111500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Construyendo gigantes</title>
+  </programme>
+  <programme start="20210407111500 -0600" stop="20210407120200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Solo contra el Mundo Hazen</title>
+  </programme>
+  <programme start="20210407120200 -0600" stop="20210407125700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20210407125700 -0600" stop="20210407134200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaestructuras nazis</title>
+  </programme>
+  <programme start="20210407134200 -0600" stop="20210407143700 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20210407143700 -0600" stop="20210407153000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday catástrofes aéreas 13</title>
+  </programme>
+  <programme start="20210407153000 -0600" stop="20210407162500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Preso en el extranjero</title>
+  </programme>
+  <programme start="20210407162500 -0600" stop="20210407171200 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210407171200 -0600" stop="20210407180900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Reconstrucciones Asombrosas</title>
+  </programme>
+  <programme start="20210407180900 -0600" stop="20210407191100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Ciudades Bajo el Agua</title>
+  </programme>
+  <programme start="20210407191100 -0600" stop="20210407200000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Construyendo gigantes</title>
+  </programme>
+  <programme start="20210407200000 -0600" stop="20210407204900 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Revelaciones del Antiguo Egip</title>
+  </programme>
+  <programme start="20210407204900 -0600" stop="20210407213800 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Secretos Ocultos de las Momias</title>
+  </programme>
+  <programme start="20210407213800 -0600" stop="20210407223100 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Lugares malditos</title>
+  </programme>
+  <programme start="20210407223100 -0600" stop="20210408001500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">El último bastión de Hitler</title>
+  </programme>
+  <programme start="20210408001500 -0600" stop="20210408015500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday catástrofes aéreas 13</title>
+  </programme>
+  <programme start="20210408015500 -0600" stop="20210408033500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Revelaciones del Antiguo Egip</title>
+  </programme>
+  <programme start="20210408033500 -0600" stop="20210408042500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Lugares malditos</title>
+  </programme>
+  <programme start="20210408042500 -0600" stop="20210408051000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210408051000 -0600" stop="20210408053500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210408053500 -0600" stop="20210408062500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210408062500 -0600" stop="20210408065000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210408065000 -0600" stop="20210408071500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210408071500 -0600" stop="20210408101000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Lo Mejor de Juegos Mentales T</title>
+  </programme>
+  <programme start="20210408101000 -0600" stop="20210408103500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaindustria de Alimento</title>
+  </programme>
+  <programme start="20210408103500 -0600" stop="20210408121500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Construyendo gigantes</title>
+  </programme>
+  <programme start="20210408121500 -0600" stop="20210408130500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20210408130500 -0600" stop="20210408144500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaestructuras nazis</title>
+  </programme>
+  <programme start="20210408144500 -0600" stop="20210408162500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20210408162500 -0600" stop="20210408190500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210408190500 -0600" stop="20210408200000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Contrabandistas con Mariana V</title>
+  </programme>
+  <programme start="20210408200000 -0600" stop="20210408223500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Guerra de narcos</title>
+  </programme>
+  <programme start="20210408223500 -0600" stop="20210408232500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Guerra de narcos</title>
+  </programme>
+  <programme start="20210408232500 -0600" stop="20210408235000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20210408235000 -0600" stop="20210409001500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20210409001500 -0600" stop="20210409015500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20210409015500 -0600" stop="20210409024500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Contrabandistas con Mariana V</title>
+  </programme>
+  <programme start="20210409024500 -0600" stop="20210409051000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Guerra de narcos</title>
+  </programme>
+  <programme start="20210409051000 -0600" stop="20210409053500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210409053500 -0600" stop="20210409060000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210409060000 -0600" stop="20210409062500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210409062500 -0600" stop="20210409071500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210409071500 -0600" stop="20210409094500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Lo Mejor de Juegos Mentales T</title>
+  </programme>
+  <programme start="20210409094500 -0600" stop="20210409101000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210409101000 -0600" stop="20210409103500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaindustria de Alimento</title>
+  </programme>
+  <programme start="20210409103500 -0600" stop="20210409112500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Construyendo gigantes</title>
+  </programme>
+  <programme start="20210409112500 -0600" stop="20210409121500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Solo contra el Mundo Hazen</title>
+  </programme>
+  <programme start="20210409121500 -0600" stop="20210409130500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20210409130500 -0600" stop="20210409144500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaestructuras nazis</title>
+  </programme>
+  <programme start="20210409144500 -0600" stop="20210409162500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catástrofes Aérea</title>
+  </programme>
+  <programme start="20210409162500 -0600" stop="20210409171500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210409171500 -0600" stop="20210409200000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210409200000 -0600" stop="20210409214500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">El nuevo Air Force One</title>
+  </programme>
+  <programme start="20210409214500 -0600" stop="20210409223500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">En busca de la verdad</title>
+  </programme>
+  <programme start="20210409223500 -0600" stop="20210410001500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La Rebelión Inca</title>
+  </programme>
+  <programme start="20210410001500 -0600" stop="20210410015500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catástrofes Aérea</title>
+  </programme>
+  <programme start="20210410015500 -0600" stop="20210410033500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">El nuevo Air Force One</title>
+  </programme>
+  <programme start="20210410033500 -0600" stop="20210410042500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">En busca de la verdad</title>
+  </programme>
+  <programme start="20210410042500 -0600" stop="20210410051000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20210410051000 -0600" stop="20210410053500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210410053500 -0600" stop="20210410060000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20210410060000 -0600" stop="20210410062500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210410062500 -0600" stop="20210410065000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210410065000 -0600" stop="20210410071500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20210410071500 -0600" stop="20210410101000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Lo Mejor de Juegos Mentales T</title>
+  </programme>
+  <programme start="20210410101000 -0600" stop="20210410103500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaindustria de Alimento</title>
+  </programme>
+  <programme start="20210410103500 -0600" stop="20210410112500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Construyendo gigantes</title>
+  </programme>
+  <programme start="20210410112500 -0600" stop="20210410121500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Solo contra el Mundo Hazen</title>
+  </programme>
+  <programme start="20210410121500 -0600" stop="20210410130500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20210410130500 -0600" stop="20210410144500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Megaestructuras nazis</title>
+  </programme>
+  <programme start="20210410144500 -0600" stop="20210410181000 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Mayday Catástrofes Aérea</title>
+  </programme>
+  <programme start="20210410181000 -0600" stop="20210410190500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Imperio salvaje La rebelión</title>
+  </programme>
+  <programme start="20210410190500 -0600" stop="20210410214500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Desastres Mortales</title>
+  </programme>
+  <programme start="20210410214500 -0600" stop="20210410223500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20210410223500 -0600" stop="20210410232500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20210410232500 -0600" stop="20210411001500 -0600" channel="DUAL | NAT GEO FHD">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20210403012300 -0600" stop="20210403025000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Pesadilla la calle del inf. 2</title>
+  </programme>
+  <programme start="20210403025000 -0600" stop="20210403043000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Infección</title>
+  </programme>
+  <programme start="20210403043000 -0600" stop="20210403060000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Evil dead posesión infernal</title>
+  </programme>
+  <programme start="20210403060000 -0600" stop="20210403073800 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Fuga al límite</title>
+  </programme>
+  <programme start="20210403073800 -0600" stop="20210403095700 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Godzilla</title>
+  </programme>
+  <programme start="20210403095700 -0600" stop="20210403115200 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El Rey Escorpión</title>
+  </programme>
+  <programme start="20210403115200 -0600" stop="20210403134400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El rey escorpión 4</title>
+  </programme>
+  <programme start="20210403134400 -0600" stop="20210403160100 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">The Karate Kid</title>
+  </programme>
+  <programme start="20210403160100 -0600" stop="20210403183000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Asesinos</title>
+  </programme>
+  <programme start="20210403183000 -0600" stop="20210403195500 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20210403195500 -0600" stop="20210403220000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El Especialista</title>
+  </programme>
+  <programme start="20210403220000 -0600" stop="20210403235300 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Tango y Cash</title>
+  </programme>
+  <programme start="20210403235300 -0600" stop="20210404012400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Amityville: El Despertar</title>
+  </programme>
+  <programme start="20210404235300 -0600" stop="20210405012400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Amityville: El Despertar</title>
+  </programme>
+  <programme start="20210405012400 -0600" stop="20210405032200 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Evil dead posesión infernal</title>
+  </programme>
+  <programme start="20210405032200 -0600" stop="20210405053500 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210405053500 -0600" stop="20210405071500 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Timecop policía del futuro</title>
+  </programme>
+  <programme start="20210405071500 -0600" stop="20210405090600 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El Especialista</title>
+  </programme>
+  <programme start="20210405090600 -0600" stop="20210405113000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20210405113000 -0600" stop="20210405131700 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">AEW All Elite Wrestling</title>
+  </programme>
+  <programme start="20210405131700 -0600" stop="20210405154000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Asesinos</title>
+  </programme>
+  <programme start="20210405154000 -0600" stop="20210405173300 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Tango y Cash</title>
+  </programme>
+  <programme start="20210405173300 -0600" stop="20210405193900 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Alta velocidad</title>
+  </programme>
+  <programme start="20210405193900 -0600" stop="20210405211600 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El ejecutor</title>
+  </programme>
+  <programme start="20210405211600 -0600" stop="20210405225200 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Amityville: El Despertar</title>
+  </programme>
+  <programme start="20210405225200 -0600" stop="20210406002500 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Noche infernal</title>
+  </programme>
+  <programme start="20210406002500 -0600" stop="20210406020600 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Sniper Fuego oculto</title>
+  </programme>
+  <programme start="20210406020600 -0600" stop="20210406041400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Sin piedad</title>
+  </programme>
+  <programme start="20210406041400 -0600" stop="20210406050000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210406050000 -0600" stop="20210406064700 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">La gran apuesta</title>
+  </programme>
+  <programme start="20210406064700 -0600" stop="20210406084100 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Infierno bajo tierra</title>
+  </programme>
+  <programme start="20210406084100 -0600" stop="20210406102100 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">King of Fighters</title>
+  </programme>
+  <programme start="20210406102100 -0600" stop="20210406123400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El chacal</title>
+  </programme>
+  <programme start="20210406123400 -0600" stop="20210406140800 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El ejecutor</title>
+  </programme>
+  <programme start="20210406140800 -0600" stop="20210406161200 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Alta velocidad</title>
+  </programme>
+  <programme start="20210406161200 -0600" stop="20210406183800 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El Fugitivo</title>
+  </programme>
+  <programme start="20210406183800 -0600" stop="20210406210000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Los Federales</title>
+  </programme>
+  <programme start="20210406210000 -0600" stop="20210406225500 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Dunkerque</title>
+  </programme>
+  <programme start="20210406225500 -0600" stop="20210407005700 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">AEW All Elite Wrestling</title>
+  </programme>
+  <programme start="20210407225500 -0600" stop="20210408005700 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">AEW All Elite Wrestling</title>
+  </programme>
+  <programme start="20210408005700 -0600" stop="20210408024000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Sniper Fuego oculto</title>
+  </programme>
+  <programme start="20210408024000 -0600" stop="20210408043300 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El Corruptor</title>
+  </programme>
+  <programme start="20210408043300 -0600" stop="20210408050000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210408050000 -0600" stop="20210408053800 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210408053800 -0600" stop="20210408075100 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El chacal</title>
+  </programme>
+  <programme start="20210408075100 -0600" stop="20210408100400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Van Helsing</title>
+  </programme>
+  <programme start="20210408100400 -0600" stop="20210408123100 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Godzilla</title>
+  </programme>
+  <programme start="20210408123100 -0600" stop="20210408145400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El Fugitivo</title>
+  </programme>
+  <programme start="20210408145400 -0600" stop="20210408171400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Los Federales</title>
+  </programme>
+  <programme start="20210408171400 -0600" stop="20210408190400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Sniper: El legado</title>
+  </programme>
+  <programme start="20210408190400 -0600" stop="20210408210000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Dunkerque</title>
+  </programme>
+  <programme start="20210408210000 -0600" stop="20210408230200 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El Corruptor</title>
+  </programme>
+  <programme start="20210408230200 -0600" stop="20210409000200 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20210409230200 -0600" stop="20210410000200 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20210410000200 -0600" stop="20210410020500 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Invasión zombie</title>
+  </programme>
+  <programme start="20210410020500 -0600" stop="20210410033100 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Violencia aleatoria</title>
+  </programme>
+  <programme start="20210410033100 -0600" stop="20210410050000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Animal</title>
+  </programme>
+  <programme start="20210410050000 -0600" stop="20210410053000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210410053000 -0600" stop="20210410074300 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Van Helsing</title>
+  </programme>
+  <programme start="20210410074300 -0600" stop="20210410100600 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Godzilla</title>
+  </programme>
+  <programme start="20210410100600 -0600" stop="20210410120000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Elysium</title>
+  </programme>
+  <programme start="20210410120000 -0600" stop="20210410134800 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Sniper: El legado</title>
+  </programme>
+  <programme start="20210410134800 -0600" stop="20210410153400 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">El ataque de las arañas</title>
+  </programme>
+  <programme start="20210410153400 -0600" stop="20210410172600 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Alerta en lo profundo</title>
+  </programme>
+  <programme start="20210410172600 -0600" stop="20210410190100 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Anaconda</title>
+  </programme>
+  <programme start="20210410190100 -0600" stop="20210410210000 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Terror a bordo</title>
+  </programme>
+  <programme start="20210410210000 -0600" stop="20210410223300 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Violencia aleatoria</title>
+  </programme>
+  <programme start="20210410223300 -0600" stop="20210411005300 -0600" channel="DUAL | SPACE FHD">
+    <title lang="es">Acoso Sexual</title>
+  </programme>
+  <programme start="20210403002700 -0600" stop="20210403024900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
+  </programme>
+  <programme start="20210403024900 -0600" stop="20210403031200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210403031200 -0600" stop="20210403033600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210403033600 -0600" stop="20210403040000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210403040000 -0600" stop="20210403042400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210403042400 -0600" stop="20210403044700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210403044700 -0600" stop="20210403053600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210403053600 -0600" stop="20210403060000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210403060000 -0600" stop="20210403064400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210403064400 -0600" stop="20210403070600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210403070600 -0600" stop="20210403073100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210403073100 -0600" stop="20210403075100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20210403075100 -0600" stop="20210403081400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210403081400 -0600" stop="20210403083600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210403083600 -0600" stop="20210403085800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210403085800 -0600" stop="20210403092100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210403092100 -0600" stop="20210403094500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210403094500 -0600" stop="20210403100800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Last O.G</title>
+  </programme>
+  <programme start="20210403100800 -0600" stop="20210403103000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20210403103000 -0600" stop="20210403105300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Miracle workers dark age</title>
+  </programme>
+  <programme start="20210403105300 -0600" stop="20210403111400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210403111400 -0600" stop="20210403120100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Riverdale</title>
+  </programme>
+  <programme start="20210403120100 -0600" stop="20210403140300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Linterna verde</title>
+  </programme>
+  <programme start="20210403140300 -0600" stop="20210403163200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Batman inicia</title>
+  </programme>
+  <programme start="20210403163200 -0600" stop="20210403191400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Batman Caballero de la noche</title>
+  </programme>
+  <programme start="20210403191400 -0600" stop="20210403220000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Mujer Maravilla</title>
+  </programme>
+  <programme start="20210403220000 -0600" stop="20210404002700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
+  </programme>
+  <programme start="20210404220000 -0600" stop="20210405002700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
+  </programme>
+  <programme start="20210405002700 -0600" stop="20210405020100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Sherlock Holmes juego de</title>
+  </programme>
+  <programme start="20210405020100 -0600" stop="20210405022400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210405022400 -0600" stop="20210405024700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210405024700 -0600" stop="20210405031000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210405031000 -0600" stop="20210405033100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405033100 -0600" stop="20210405050000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210405050000 -0600" stop="20210405063400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210405063400 -0600" stop="20210405065400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210405065400 -0600" stop="20210405071800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405071800 -0600" stop="20210405073900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405073900 -0600" stop="20210405080200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405080200 -0600" stop="20210405082500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405082500 -0600" stop="20210405084700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20210405084700 -0600" stop="20210405090600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210405090600 -0600" stop="20210405093200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210405093200 -0600" stop="20210405095700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210405095700 -0600" stop="20210405104900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210405104900 -0600" stop="20210405111300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210405111300 -0600" stop="20210405113700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210405113700 -0600" stop="20210405120200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210405120200 -0600" stop="20210405122700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210405122700 -0600" stop="20210405125200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405125200 -0600" stop="20210405131400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405131400 -0600" stop="20210405133500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405133500 -0600" stop="20210405140000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210405140000 -0600" stop="20210405153300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Little Nicky</title>
+  </programme>
+  <programme start="20210405153300 -0600" stop="20210405171400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Jack y Jill</title>
+  </programme>
+  <programme start="20210405171400 -0600" stop="20210405190700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Pixels</title>
+  </programme>
+  <programme start="20210405190700 -0600" stop="20210405210000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20210405210000 -0600" stop="20210405225100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Como si fuera la primera vez</title>
+  </programme>
+  <programme start="20210405225100 -0600" stop="20210405231000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210405231000 -0600" stop="20210405233300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Miracle workers dark age</title>
+  </programme>
+  <programme start="20210405233300 -0600" stop="20210405235700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210405235700 -0600" stop="20210406002200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210406002200 -0600" stop="20210406010900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210406010900 -0600" stop="20210406013300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210406013300 -0600" stop="20210406015600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406015600 -0600" stop="20210406021700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406021700 -0600" stop="20210406023700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406023700 -0600" stop="20210406025900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406025900 -0600" stop="20210406032400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210406032400 -0600" stop="20210406050000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210406050000 -0600" stop="20210406064500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210406064500 -0600" stop="20210406070800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210406070800 -0600" stop="20210406073200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210406073200 -0600" stop="20210406075700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210406075700 -0600" stop="20210406082100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210406082100 -0600" stop="20210406084200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406084200 -0600" stop="20210406090300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406090300 -0600" stop="20210406092600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406092600 -0600" stop="20210406094700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406094700 -0600" stop="20210406100900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20210406100900 -0600" stop="20210406103200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210406103200 -0600" stop="20210406105700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210406105700 -0600" stop="20210406112400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210406112400 -0600" stop="20210406115000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210406115000 -0600" stop="20210406121200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210406121200 -0600" stop="20210406141300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Linterna verde</title>
+  </programme>
+  <programme start="20210406141300 -0600" stop="20210406143700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210406143700 -0600" stop="20210406150200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210406150200 -0600" stop="20210406152800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210406152800 -0600" stop="20210406155200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406155200 -0600" stop="20210406161400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406161400 -0600" stop="20210406163600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406163600 -0600" stop="20210406170000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210406170000 -0600" stop="20210406185000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20210406185000 -0600" stop="20210406203500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Como si fuera la primera vez</title>
+  </programme>
+  <programme start="20210406203500 -0600" stop="20210406210000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210406210000 -0600" stop="20210406231200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Cazafantasmas</title>
+  </programme>
+  <programme start="20210406231200 -0600" stop="20210407002300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Rick &amp; Morty</title>
+  </programme>
+  <programme start="20210407002300 -0600" stop="20210407004700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210407004700 -0600" stop="20210407011000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210407011000 -0600" stop="20210407013400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210407013400 -0600" stop="20210407015800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210407015800 -0600" stop="20210407022000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407022000 -0600" stop="20210407024100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407024100 -0600" stop="20210407030300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407030300 -0600" stop="20210407032400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407032400 -0600" stop="20210407050000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210407050000 -0600" stop="20210407063200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210407063200 -0600" stop="20210407064700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407064700 -0600" stop="20210407070600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407070600 -0600" stop="20210407072800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407072800 -0600" stop="20210407075100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20210407075100 -0600" stop="20210407081000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210407081000 -0600" stop="20210407083500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210407083500 -0600" stop="20210407090000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210407090000 -0600" stop="20210407095100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210407095100 -0600" stop="20210407101500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210407101500 -0600" stop="20210407120900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Sucker Punch: Mundo Surreal</title>
+  </programme>
+  <programme start="20210407120900 -0600" stop="20210407140600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Broken City</title>
+  </programme>
+  <programme start="20210407140600 -0600" stop="20210407143200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210407143200 -0600" stop="20210407145700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210407145700 -0600" stop="20210407152200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210407152200 -0600" stop="20210407154400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407154400 -0600" stop="20210407160600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407160600 -0600" stop="20210407162900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407162900 -0600" stop="20210407165200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210407165200 -0600" stop="20210407184700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Sueños de amor</title>
+  </programme>
+  <programme start="20210407184700 -0600" stop="20210407210000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Cazafantasmas</title>
+  </programme>
+  <programme start="20210407210000 -0600" stop="20210407231600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
+  </programme>
+  <programme start="20210407231600 -0600" stop="20210408000200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Legacies</title>
+  </programme>
+  <programme start="20210408000200 -0600" stop="20210408002700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408002700 -0600" stop="20210408005100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408005100 -0600" stop="20210408013900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408013900 -0600" stop="20210408020300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408020300 -0600" stop="20210408022500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408022500 -0600" stop="20210408024600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408024600 -0600" stop="20210408030600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408030600 -0600" stop="20210408032700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408032700 -0600" stop="20210408050000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210408050000 -0600" stop="20210408063100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210408063100 -0600" stop="20210408064800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20210408064800 -0600" stop="20210408070700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210408070700 -0600" stop="20210408073100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408073100 -0600" stop="20210408075600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408075600 -0600" stop="20210408082100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408082100 -0600" stop="20210408084400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408084400 -0600" stop="20210408112000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Devil's Advocate</title>
+  </programme>
+  <programme start="20210408112000 -0600" stop="20210408130900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Sueños de amor</title>
+  </programme>
+  <programme start="20210408130900 -0600" stop="20210408133400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210408133400 -0600" stop="20210408135800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210408135800 -0600" stop="20210408142300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210408142300 -0600" stop="20210408144400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408144400 -0600" stop="20210408150400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408150400 -0600" stop="20210408152600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408152600 -0600" stop="20210408154900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408154900 -0600" stop="20210408174700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Sucker Punch: Mundo Surreal</title>
+  </programme>
+  <programme start="20210408174700 -0600" stop="20210408193000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Después de la Tierra</title>
+  </programme>
+  <programme start="20210408193000 -0600" stop="20210408203000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Riverdale</title>
+  </programme>
+  <programme start="20210408203000 -0600" stop="20210408210000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210408210000 -0600" stop="20210408224700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Belleza Inesperada</title>
+  </programme>
+  <programme start="20210408224700 -0600" stop="20210408233200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Riverdale</title>
+  </programme>
+  <programme start="20210408233200 -0600" stop="20210408235600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210408235600 -0600" stop="20210409002000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210409235600 -0600" stop="20210410002000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210410002000 -0600" stop="20210410004400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210410004400 -0600" stop="20210410010800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210410010800 -0600" stop="20210410012900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410012900 -0600" stop="20210410014900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410014900 -0600" stop="20210410020900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410020900 -0600" stop="20210410023100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410023100 -0600" stop="20210410025400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210410025400 -0600" stop="20210410031700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210410031700 -0600" stop="20210410033900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210410033900 -0600" stop="20210410050000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210410050000 -0600" stop="20210410063700 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210410063700 -0600" stop="20210410070000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410070000 -0600" stop="20210410072100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410072100 -0600" stop="20210410074200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410074200 -0600" stop="20210410080400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410080400 -0600" stop="20210410082600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20210410082600 -0600" stop="20210410084500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210410084500 -0600" stop="20210410090900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210410090900 -0600" stop="20210410093500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210410093500 -0600" stop="20210410100000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210410100000 -0600" stop="20210410102500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210410102500 -0600" stop="20210410122100 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Broken City</title>
+  </programme>
+  <programme start="20210410122100 -0600" stop="20210410135400 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Little Nicky</title>
+  </programme>
+  <programme start="20210410135400 -0600" stop="20210410141900 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210410141900 -0600" stop="20210410144300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210410144300 -0600" stop="20210410150600 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210410150600 -0600" stop="20210410153000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410153000 -0600" stop="20210410155200 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410155200 -0600" stop="20210410161500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410161500 -0600" stop="20210410163800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210410163800 -0600" stop="20210410172800 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Riverdale</title>
+  </programme>
+  <programme start="20210410172800 -0600" stop="20210410191300 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Después de la Tierra</title>
+  </programme>
+  <programme start="20210410191300 -0600" stop="20210410210000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">Belleza Inesperada</title>
+  </programme>
+  <programme start="20210410210000 -0600" stop="20210410233000 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">El Hombre de Acero</title>
+  </programme>
+  <programme start="20210410233000 -0600" stop="20210411001500 -0600" channel="DUAL | WARNER CHANNEL FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210403014300 -0600" stop="20210403021400 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Inner secrets</title>
+  </programme>
+  <programme start="20210403021400 -0600" stop="20210403024300 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Inner secrets</title>
+  </programme>
+  <programme start="20210403024300 -0600" stop="20210403044600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Una Última y nos vamos</title>
+  </programme>
+  <programme start="20210403044600 -0600" stop="20210403065400 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Latin Lover</title>
+  </programme>
+  <programme start="20210403065400 -0600" stop="20210403083600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Mortadelo y Filemón</title>
+  </programme>
+  <programme start="20210403083600 -0600" stop="20210403102100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">El príncipe de Egipto</title>
+  </programme>
+  <programme start="20210403102100 -0600" stop="20210403120200 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Marcelino</title>
+  </programme>
+  <programme start="20210403120200 -0600" stop="20210403143600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Hijo de Dios</title>
+  </programme>
+  <programme start="20210403143600 -0600" stop="20210403165900 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">La cabaña</title>
+  </programme>
+  <programme start="20210403165900 -0600" stop="20210403190000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Wonder</title>
+  </programme>
+  <programme start="20210403190000 -0600" stop="20210403210000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Lo Imposible</title>
+  </programme>
+  <programme start="20210403210000 -0600" stop="20210404001400 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Juan Pablo II</title>
+  </programme>
+  <programme start="20210404001400 -0600" stop="20210404023700 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Obediencia Perfecta</title>
+  </programme>
+  <programme start="20210404023700 -0600" stop="20210404030600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Inner secrets</title>
+  </programme>
+  <programme start="20210404030600 -0600" stop="20210404045200 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Si tuviera 30</title>
+  </programme>
+  <programme start="20210404045200 -0600" stop="20210404064100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Canela</title>
+  </programme>
+  <programme start="20210404064100 -0600" stop="20210404082800 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Operación regalo</title>
+  </programme>
+  <programme start="20210404082800 -0600" stop="20210404101500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Los pequeños gladiadores de</title>
+  </programme>
+  <programme start="20210404101500 -0600" stop="20210404123600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Lo que ellas quieren</title>
+  </programme>
+  <programme start="20210404123600 -0600" stop="20210404142900 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">No Manches Frida 2</title>
+  </programme>
+  <programme start="20210404142900 -0600" stop="20210404161700 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Si tuviera 30</title>
+  </programme>
+  <programme start="20210404161700 -0600" stop="20210404181000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Jumanji</title>
+  </programme>
+  <programme start="20210404181000 -0600" stop="20210404200000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Mira quien habla</title>
+  </programme>
+  <programme start="20210404200000 -0600" stop="20210404214900 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Beethoven y el tesoro</title>
+  </programme>
+  <programme start="20210404214900 -0600" stop="20210404235100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Jesucristo Superestrella</title>
+  </programme>
+  <programme start="20210404235100 -0600" stop="20210405002000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Inner secrets</title>
+  </programme>
+  <programme start="20210405002000 -0600" stop="20210405005100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Inner secrets</title>
+  </programme>
+  <programme start="20210405005100 -0600" stop="20210405022300 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Ella es Ramona</title>
+  </programme>
+  <programme start="20210405022300 -0600" stop="20210405040500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Te presento a laura</title>
+  </programme>
+  <programme start="20210405040500 -0600" stop="20210405055400 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Compadres</title>
+  </programme>
+  <programme start="20210405055400 -0600" stop="20210405064400 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210405064400 -0600" stop="20210405073500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210405073500 -0600" stop="20210405092500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Otra película de huevos</title>
+  </programme>
+  <programme start="20210405092500 -0600" stop="20210405111000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Que Pena tu Vida</title>
+  </programme>
+  <programme start="20210405111000 -0600" stop="20210405123800 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">El Animal</title>
+  </programme>
+  <programme start="20210405123800 -0600" stop="20210405141800 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Locuras en el bosque</title>
+  </programme>
+  <programme start="20210405141800 -0600" stop="20210405155100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Mi papá es un gato</title>
+  </programme>
+  <programme start="20210405155100 -0600" stop="20210405172800 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">En Las Buenas y En Las Malas</title>
+  </programme>
+  <programme start="20210405172800 -0600" stop="20210405191900 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Compadres</title>
+  </programme>
+  <programme start="20210405191900 -0600" stop="20210405210000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Alicia en el país de María</title>
+  </programme>
+  <programme start="20210405210000 -0600" stop="20210405215100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210405215100 -0600" stop="20210405224000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210405224000 -0600" stop="20210406003600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Amar te duele</title>
+  </programme>
+  <programme start="20210406224000 -0600" stop="20210407003600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Amar te duele</title>
+  </programme>
+  <programme start="20210407003600 -0600" stop="20210407024900 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Eclipse</title>
+  </programme>
+  <programme start="20210407024900 -0600" stop="20210407044100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Dulce Familia</title>
+  </programme>
+  <programme start="20210407044100 -0600" stop="20210407063500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">La Boda de Valentina</title>
+  </programme>
+  <programme start="20210407063500 -0600" stop="20210407072500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210407072500 -0600" stop="20210407081400 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210407081400 -0600" stop="20210407095500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Día de muertos</title>
+  </programme>
+  <programme start="20210407095500 -0600" stop="20210407112800 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Mi papá es un gato</title>
+  </programme>
+  <programme start="20210407112800 -0600" stop="20210407131100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Te presento a laura</title>
+  </programme>
+  <programme start="20210407131100 -0600" stop="20210407145800 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Treintona, soltera y</title>
+  </programme>
+  <programme start="20210407145800 -0600" stop="20210407171100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">No se aceptan devoluciones</title>
+  </programme>
+  <programme start="20210407171100 -0600" stop="20210407190700 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cindy la regia</title>
+  </programme>
+  <programme start="20210407190700 -0600" stop="20210407210000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Mi Abuelo es un Peligro</title>
+  </programme>
+  <programme start="20210407210000 -0600" stop="20210407215200 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210407215200 -0600" stop="20210407224300 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210407224300 -0600" stop="20210408003700 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">A la mala</title>
+  </programme>
+  <programme start="20210408224300 -0600" stop="20210409003700 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">A la mala</title>
+  </programme>
+  <programme start="20210409003700 -0600" stop="20210409024500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">La ciudad de las tormentas</title>
+  </programme>
+  <programme start="20210409024500 -0600" stop="20210409042800 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">El cielo es azul</title>
+  </programme>
+  <programme start="20210409042800 -0600" stop="20210409055600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Aaa, la película</title>
+  </programme>
+  <programme start="20210409055600 -0600" stop="20210409064700 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210409064700 -0600" stop="20210409073700 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210409073700 -0600" stop="20210409091400 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Bailarina</title>
+  </programme>
+  <programme start="20210409091400 -0600" stop="20210409111100 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cásese Quien Pueda</title>
+  </programme>
+  <programme start="20210409111100 -0600" stop="20210409130500 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">A la mala</title>
+  </programme>
+  <programme start="20210409130500 -0600" stop="20210409151300 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Latin Lover</title>
+  </programme>
+  <programme start="20210409151300 -0600" stop="20210409170900 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">La última oportunidad</title>
+  </programme>
+  <programme start="20210409170900 -0600" stop="20210409191900 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">La ciudad de las tormentas</title>
+  </programme>
+  <programme start="20210409191900 -0600" stop="20210409210000 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">El territorio de los dioses</title>
+  </programme>
+  <programme start="20210409215100 -0600" stop="20210409224400 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210409224400 -0600" stop="20210410001600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Scary Movie 5</title>
+  </programme>
+  <programme start="20210410224400 -0600" stop="20210411001600 -0600" channel="PREMIUM HD |  GOLDEN">
+    <title lang="es">Scary Movie 5</title>
+  </programme>
+  <programme start="20210403000200 -0600" stop="20210403002900 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Erotic Stories</title>
+  </programme>
+  <programme start="20210403002900 -0600" stop="20210403005600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Erotic Stories</title>
+  </programme>
+  <programme start="20210403005600 -0600" stop="20210403024000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Mexican Gangster</title>
+  </programme>
+  <programme start="20210403024000 -0600" stop="20210403042000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El cielo en tu mirada</title>
+  </programme>
+  <programme start="20210403042000 -0600" stop="20210403054800 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">All Dogs Go to Heaven</title>
+  </programme>
+  <programme start="20210403054800 -0600" stop="20210403071400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Una familia de héroes</title>
+  </programme>
+  <programme start="20210403071400 -0600" stop="20210403083900 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Ella es Ramona</title>
+  </programme>
+  <programme start="20210403083900 -0600" stop="20210403102600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Bailando en el desierto</title>
+  </programme>
+  <programme start="20210403102600 -0600" stop="20210403120300 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Before We Go</title>
+  </programme>
+  <programme start="20210403120300 -0600" stop="20210403134000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Esperando por siempre</title>
+  </programme>
+  <programme start="20210403134000 -0600" stop="20210403153300 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El caza recompensas</title>
+  </programme>
+  <programme start="20210403153300 -0600" stop="20210403170700 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Te veré en mis sueños</title>
+  </programme>
+  <programme start="20210403170700 -0600" stop="20210403190400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Mi Querido Presidente</title>
+  </programme>
+  <programme start="20210403190400 -0600" stop="20210403203600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Learning to Drive</title>
+  </programme>
+  <programme start="20210403203600 -0600" stop="20210403220000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">See you in Valhalla</title>
+  </programme>
+  <programme start="20210403220000 -0600" stop="20210403233200 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">I Hate Valentine's Day</title>
+  </programme>
+  <programme start="20210403233200 -0600" stop="20210403235900 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Erotic Stories</title>
+  </programme>
+  <programme start="20210403235900 -0600" stop="20210404002600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Erotic Stories</title>
+  </programme>
+  <programme start="20210404002600 -0600" stop="20210404021200 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Solomon Kane</title>
+  </programme>
+  <programme start="20210404021200 -0600" stop="20210404040500 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Gueros</title>
+  </programme>
+  <programme start="20210404040500 -0600" stop="20210404060400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">La fiesta de la vida</title>
+  </programme>
+  <programme start="20210404060400 -0600" stop="20210404074100 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El viaje de la Nonna</title>
+  </programme>
+  <programme start="20210404074100 -0600" stop="20210404091500 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Locuras en el bosque</title>
+  </programme>
+  <programme start="20210404091500 -0600" stop="20210404110700 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Una buena mentira</title>
+  </programme>
+  <programme start="20210404110700 -0600" stop="20210404132800 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Hijo de Dios</title>
+  </programme>
+  <programme start="20210404132800 -0600" stop="20210404150400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Dura verdad</title>
+  </programme>
+  <programme start="20210404150400 -0600" stop="20210404165100 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">La Última Ola</title>
+  </programme>
+  <programme start="20210404165100 -0600" stop="20210404185600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">La francotiradora</title>
+  </programme>
+  <programme start="20210404185600 -0600" stop="20210404210000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Agente Bajo Fuego</title>
+  </programme>
+  <programme start="20210404210000 -0600" stop="20210405002500 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Malcolm X</title>
+  </programme>
+  <programme start="20210405002500 -0600" stop="20210405005300 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Erotic Stories</title>
+  </programme>
+  <programme start="20210405005300 -0600" stop="20210405012000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Erotic Stories</title>
+  </programme>
+  <programme start="20210405012000 -0600" stop="20210405023200 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Más allá de mí</title>
+  </programme>
+  <programme start="20210405023200 -0600" stop="20210405052500 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Cloud Atlas: La Red Invisible</title>
+  </programme>
+  <programme start="20210405052500 -0600" stop="20210405064600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Jill and Joy</title>
+  </programme>
+  <programme start="20210405064600 -0600" stop="20210405082500 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Zapatero a tus zapatos</title>
+  </programme>
+  <programme start="20210405082500 -0600" stop="20210405100900 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">En nombre del amor</title>
+  </programme>
+  <programme start="20210405100900 -0600" stop="20210405115600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Traición al límite</title>
+  </programme>
+  <programme start="20210405115600 -0600" stop="20210405134200 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Mi gran oportunidad</title>
+  </programme>
+  <programme start="20210405134200 -0600" stop="20210405151800 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">The bling ring</title>
+  </programme>
+  <programme start="20210405151800 -0600" stop="20210405170100 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Drugstore Cowboy</title>
+  </programme>
+  <programme start="20210405170100 -0600" stop="20210405190200 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Transcendence</title>
+  </programme>
+  <programme start="20210405190200 -0600" stop="20210405210000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Dos tipos peligrosos</title>
+  </programme>
+  <programme start="20210405210000 -0600" stop="20210405224600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Genius</title>
+  </programme>
+  <programme start="20210405224600 -0600" stop="20210406003700 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">American Pastoral</title>
+  </programme>
+  <programme start="20210406224600 -0600" stop="20210407003700 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">American Pastoral</title>
+  </programme>
+  <programme start="20210407003700 -0600" stop="20210407031300 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Amores perros</title>
+  </programme>
+  <programme start="20210407031300 -0600" stop="20210407044000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Te Juro que Yo no Fui</title>
+  </programme>
+  <programme start="20210407044000 -0600" stop="20210407061000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Pastorela</title>
+  </programme>
+  <programme start="20210407061000 -0600" stop="20210407074100 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Pinocchio</title>
+  </programme>
+  <programme start="20210407074100 -0600" stop="20210407091500 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">No se metan con mi vaca</title>
+  </programme>
+  <programme start="20210407091500 -0600" stop="20210407111300 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">La fiesta de la vida</title>
+  </programme>
+  <programme start="20210407111300 -0600" stop="20210407125600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Arthur y La Guerra de los Dos Mundos</title>
+  </programme>
+  <programme start="20210407125600 -0600" stop="20210407143100 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Almas Pasajeras</title>
+  </programme>
+  <programme start="20210407143100 -0600" stop="20210407161000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El cielo en tu mirada</title>
+  </programme>
+  <programme start="20210407161000 -0600" stop="20210407174400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">About Ray</title>
+  </programme>
+  <programme start="20210407174400 -0600" stop="20210407191900 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El bosque siniestro</title>
+  </programme>
+  <programme start="20210407191900 -0600" stop="20210407210000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El último sacramento</title>
+  </programme>
+  <programme start="20210407210000 -0600" stop="20210407230300 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">The Black Dahlia</title>
+  </programme>
+  <programme start="20210407230300 -0600" stop="20210408003600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">The Monster</title>
+  </programme>
+  <programme start="20210408003600 -0600" stop="20210408021800 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Así del precipicio</title>
+  </programme>
+  <programme start="20210408021800 -0600" stop="20210408035000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Presunto culpable</title>
+  </programme>
+  <programme start="20210408035000 -0600" stop="20210408054400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Una Última y nos vamos</title>
+  </programme>
+  <programme start="20210408054400 -0600" stop="20210408072800 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Grace, Entre la fe y la fama</title>
+  </programme>
+  <programme start="20210408072800 -0600" stop="20210408092400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Chef</title>
+  </programme>
+  <programme start="20210408092400 -0600" stop="20210408110600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Basada en hechos reales</title>
+  </programme>
+  <programme start="20210408110600 -0600" stop="20210408124900 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El campeón</title>
+  </programme>
+  <programme start="20210408124900 -0600" stop="20210408144000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El hombre que conocía el infinito</title>
+  </programme>
+  <programme start="20210408144000 -0600" stop="20210408162900 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Idénticos</title>
+  </programme>
+  <programme start="20210408162900 -0600" stop="20210408184600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">La búsqueda</title>
+  </programme>
+  <programme start="20210408184600 -0600" stop="20210408210000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">The Butler</title>
+  </programme>
+  <programme start="20210408210000 -0600" stop="20210408231800 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El triunfo del espíritu</title>
+  </programme>
+  <programme start="20210408231800 -0600" stop="20210409011400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Culpable o Inocente</title>
+  </programme>
+  <programme start="20210409231800 -0600" stop="20210410011400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Culpable o Inocente</title>
+  </programme>
+  <programme start="20210410011400 -0600" stop="20210410030400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Las Musas del Diablo</title>
+  </programme>
+  <programme start="20210410030400 -0600" stop="20210410045300 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El gran pequeño</title>
+  </programme>
+  <programme start="20210410045300 -0600" stop="20210410061800 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Carrusel</title>
+  </programme>
+  <programme start="20210410061800 -0600" stop="20210410074400 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Una familia de héroes</title>
+  </programme>
+  <programme start="20210410074400 -0600" stop="20210410092300 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Volando bajo</title>
+  </programme>
+  <programme start="20210410092300 -0600" stop="20210410105900 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">El que Busca Encuentra</title>
+  </programme>
+  <programme start="20210410105900 -0600" stop="20210410124200 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Canela</title>
+  </programme>
+  <programme start="20210410124200 -0600" stop="20210410140700 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Ella es Ramona</title>
+  </programme>
+  <programme start="20210410140700 -0600" stop="20210410155000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Me late chocolate</title>
+  </programme>
+  <programme start="20210410155000 -0600" stop="20210410173800 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">A la mala</title>
+  </programme>
+  <programme start="20210410173800 -0600" stop="20210410191600 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Una Mujer sin Filtro</title>
+  </programme>
+  <programme start="20210410191600 -0600" stop="20210410210000 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Todo sobre mi madre</title>
+  </programme>
+  <programme start="20210410210000 -0600" stop="20210410230200 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">La Piel Que Habito</title>
+  </programme>
+  <programme start="20210410230200 -0600" stop="20210411004500 -0600" channel="PREMIUM HD |  GOLDEN PLUS">
+    <title lang="es">Átame</title>
+  </programme>
+  <programme start="20210403005000 -0600" stop="20210403015000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210403015000 -0600" stop="20210403024500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Humanidad la historia de</title>
+  </programme>
+  <programme start="20210403024500 -0600" stop="20210403034000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Yo conocí a Jesús</title>
+  </programme>
+  <programme start="20210403034000 -0600" stop="20210403043500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210403043500 -0600" stop="20210403053000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210403053000 -0600" stop="20210403060000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210403060000 -0600" stop="20210403070000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210403070000 -0600" stop="20210403080000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210403080000 -0600" stop="20210403085500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Humanidad la historia de</title>
+  </programme>
+  <programme start="20210403085500 -0600" stop="20210403095000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Yo conocí a Jesús</title>
+  </programme>
+  <programme start="20210403095000 -0600" stop="20210403104500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210403104500 -0600" stop="20210403114000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210403114000 -0600" stop="20210403123000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210403123000 -0600" stop="20210403132500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210403132500 -0600" stop="20210403142500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Animales que cambiaron</title>
+  </programme>
+  <programme start="20210403142500 -0600" stop="20210403152500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Animales que cambiaron</title>
+  </programme>
+  <programme start="20210403152500 -0600" stop="20210403161800 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Humanidad la historia de</title>
+  </programme>
+  <programme start="20210403161800 -0600" stop="20210403170800 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20210403170800 -0600" stop="20210403180800 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Animales que cambiaron</title>
+  </programme>
+  <programme start="20210403180800 -0600" stop="20210403190800 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Animales que cambiaron</title>
+  </programme>
+  <programme start="20210403190800 -0600" stop="20210403200000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20210403200000 -0600" stop="20210403210000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Escocia la lucha por</title>
+  </programme>
+  <programme start="20210403210000 -0600" stop="20210403220000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Buscando a Dios</title>
+  </programme>
+  <programme start="20210403220000 -0600" stop="20210403225500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210403225500 -0600" stop="20210403235000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210403235000 -0600" stop="20210404005000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20210404005000 -0600" stop="20210404014500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20210404014500 -0600" stop="20210404024500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Escocia la lucha por</title>
+  </programme>
+  <programme start="20210404024500 -0600" stop="20210404033500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210404033500 -0600" stop="20210404043000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210404043000 -0600" stop="20210404050000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210404050000 -0600" stop="20210404060000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20210404060000 -0600" stop="20210404070000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20210404070000 -0600" stop="20210404075500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210404075500 -0600" stop="20210404085000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210404085000 -0600" stop="20210404094500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210404094500 -0600" stop="20210404104000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20210404104000 -0600" stop="20210404113500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20210404113500 -0600" stop="20210404122500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20210404122500 -0600" stop="20210404132500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210404132500 -0600" stop="20210404142500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210404142500 -0600" stop="20210404152500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Escocia la lucha por</title>
+  </programme>
+  <programme start="20210404152500 -0600" stop="20210404162000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20210404162000 -0600" stop="20210404171500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210404171500 -0600" stop="20210404181000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210404181000 -0600" stop="20210404190000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Mundo jurásico</title>
+  </programme>
+  <programme start="20210404190000 -0600" stop="20210404200000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Animales que cambiaron</title>
+  </programme>
+  <programme start="20210404200000 -0600" stop="20210404210000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Buscando a Dios</title>
+  </programme>
+  <programme start="20210404210000 -0600" stop="20210404215500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El supervolcán de Yellowstone</title>
+  </programme>
+  <programme start="20210404215500 -0600" stop="20210404225500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Cómo la seda cambió al mundo</title>
+  </programme>
+  <programme start="20210404225500 -0600" stop="20210404235000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20210404235000 -0600" stop="20210405004500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Mundo jurásico</title>
+  </programme>
+  <programme start="20210405004500 -0600" stop="20210405014500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Animales que cambiaron</title>
+  </programme>
+  <programme start="20210405014500 -0600" stop="20210405024500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Buscando a Dios</title>
+  </programme>
+  <programme start="20210405024500 -0600" stop="20210405033500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210405033500 -0600" stop="20210405043000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210405043000 -0600" stop="20210405050000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210405050000 -0600" stop="20210405060000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20210405060000 -0600" stop="20210405070000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Mundo jurásico</title>
+  </programme>
+  <programme start="20210405070000 -0600" stop="20210405075500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210405075500 -0600" stop="20210405085000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210405085000 -0600" stop="20210405094500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El supervolcán de Yellowstone</title>
+  </programme>
+  <programme start="20210405094500 -0600" stop="20210405104000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20210405104000 -0600" stop="20210405113000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Mundo jurásico</title>
+  </programme>
+  <programme start="20210405113000 -0600" stop="20210405122000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20210405122000 -0600" stop="20210405131000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El supervolcán de Yellowstone</title>
+  </programme>
+  <programme start="20210405131000 -0600" stop="20210405141000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Cómo la seda cambió al mundo</title>
+  </programme>
+  <programme start="20210405141000 -0600" stop="20210405150700 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Animales que cambiaron</title>
+  </programme>
+  <programme start="20210405150700 -0600" stop="20210405153700 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210405153700 -0600" stop="20210405162700 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210405162700 -0600" stop="20210405171700 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El supervolcán de Yellowstone</title>
+  </programme>
+  <programme start="20210405171700 -0600" stop="20210405181500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Cómo la seda cambió al mundo</title>
+  </programme>
+  <programme start="20210405181500 -0600" stop="20210405190500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210405190500 -0600" stop="20210405200000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20210405200000 -0600" stop="20210405210000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Rituales</title>
+  </programme>
+  <programme start="20210405210000 -0600" stop="20210405220000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Buscando a Dios</title>
+  </programme>
+  <programme start="20210405220000 -0600" stop="20210405230000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Cielos ancestrales</title>
+  </programme>
+  <programme start="20210405230000 -0600" stop="20210405235000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210405235000 -0600" stop="20210406004000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210406235000 -0600" stop="20210407004000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210407004000 -0600" stop="20210407013500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20210407013500 -0600" stop="20210407023500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Rituales</title>
+  </programme>
+  <programme start="20210407023500 -0600" stop="20210407033500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Buscando a Dios</title>
+  </programme>
+  <programme start="20210407033500 -0600" stop="20210407043000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210407043000 -0600" stop="20210407050000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210407050000 -0600" stop="20210407060000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210407060000 -0600" stop="20210407065500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210407065500 -0600" stop="20210407075000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20210407075000 -0600" stop="20210407085000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Rituales</title>
+  </programme>
+  <programme start="20210407085000 -0600" stop="20210407094500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210407094500 -0600" stop="20210407104000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210407104000 -0600" stop="20210407113000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210407113000 -0600" stop="20210407122500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210407122500 -0600" stop="20210407132500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210407132500 -0600" stop="20210407142500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Cielos ancestrales</title>
+  </programme>
+  <programme start="20210407142500 -0600" stop="20210407152500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20210407152500 -0600" stop="20210407162000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210407162000 -0600" stop="20210407172000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210407172000 -0600" stop="20210407182000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Cielos ancestrales</title>
+  </programme>
+  <programme start="20210407182000 -0600" stop="20210407191000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210407191000 -0600" stop="20210407200500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Roma auge y caída</title>
+  </programme>
+  <programme start="20210407200500 -0600" stop="20210407210000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Grandes tesoros del mundo</title>
+  </programme>
+  <programme start="20210407210000 -0600" stop="20210407215500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210407215500 -0600" stop="20210407225000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20210407225000 -0600" stop="20210407235000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210407235000 -0600" stop="20210408005000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210408005000 -0600" stop="20210408014500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Roma auge y caída</title>
+  </programme>
+  <programme start="20210408014500 -0600" stop="20210408024000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Grandes tesoros del mundo</title>
+  </programme>
+  <programme start="20210408024000 -0600" stop="20210408033500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210408033500 -0600" stop="20210408043000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210408043000 -0600" stop="20210408050000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210408050000 -0600" stop="20210408060000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210408060000 -0600" stop="20210408070000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210408070000 -0600" stop="20210408075500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Roma auge y caída</title>
+  </programme>
+  <programme start="20210408075500 -0600" stop="20210408085000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Grandes tesoros del mundo</title>
+  </programme>
+  <programme start="20210408085000 -0600" stop="20210408094500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210408094500 -0600" stop="20210408104000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20210408104000 -0600" stop="20210408113000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210408113000 -0600" stop="20210408122500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210408122500 -0600" stop="20210408132000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210408132000 -0600" stop="20210408141300 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20210408141300 -0600" stop="20210408150500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Roma auge y caída</title>
+  </programme>
+  <programme start="20210408150500 -0600" stop="20210408153500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210408153500 -0600" stop="20210408163000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210408163000 -0600" stop="20210408172500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Tutankamón</title>
+  </programme>
+  <programme start="20210408172500 -0600" stop="20210408182000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20210408182000 -0600" stop="20210408191000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210408191000 -0600" stop="20210408200500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Navy SEALs</title>
+  </programme>
+  <programme start="20210408200500 -0600" stop="20210408210000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Archivos perdidos de la 2da</title>
+  </programme>
+  <programme start="20210408210000 -0600" stop="20210408215500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Persiguiendo a Hitler</title>
+  </programme>
+  <programme start="20210408215500 -0600" stop="20210408225500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El costo de la guerra</title>
+  </programme>
+  <programme start="20210408225500 -0600" stop="20210408235000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210408235000 -0600" stop="20210409005000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210409235000 -0600" stop="20210410005000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210410005000 -0600" stop="20210410014500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Navy SEALs</title>
+  </programme>
+  <programme start="20210410014500 -0600" stop="20210410024000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Archivos perdidos de la 2da</title>
+  </programme>
+  <programme start="20210410024000 -0600" stop="20210410033500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210410033500 -0600" stop="20210410043000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210410043000 -0600" stop="20210410050000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210410050000 -0600" stop="20210410060000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210410060000 -0600" stop="20210410070000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210410070000 -0600" stop="20210410075500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Navy SEALs</title>
+  </programme>
+  <programme start="20210410075500 -0600" stop="20210410085000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Archivos perdidos de la 2da</title>
+  </programme>
+  <programme start="20210410085000 -0600" stop="20210410094500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Persiguiendo a Hitler</title>
+  </programme>
+  <programme start="20210410094500 -0600" stop="20210410104000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210410104000 -0600" stop="20210410113000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210410113000 -0600" stop="20210410122500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Hermanos de armas</title>
+  </programme>
+  <programme start="20210410122500 -0600" stop="20210410132000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Persiguiendo a Hitler</title>
+  </programme>
+  <programme start="20210410132000 -0600" stop="20210410141500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20210410141500 -0600" stop="20210410150500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Navy SEALs</title>
+  </programme>
+  <programme start="20210410150500 -0600" stop="20210410153500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20210410153500 -0600" stop="20210410163000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El Universo</title>
+  </programme>
+  <programme start="20210410163000 -0600" stop="20210410172500 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Persiguiendo a Hitler</title>
+  </programme>
+  <programme start="20210410172500 -0600" stop="20210410182000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La iglesia oculta</title>
+  </programme>
+  <programme start="20210410182000 -0600" stop="20210410191000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210410191000 -0600" stop="20210410200000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">N. Tesla archivos perdidos</title>
+  </programme>
+  <programme start="20210410200000 -0600" stop="20210410210000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Cómo los trenes cambiaron al</title>
+  </programme>
+  <programme start="20210410210000 -0600" stop="20210410220000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Ideas que cambiaron al mundo</title>
+  </programme>
+  <programme start="20210410220000 -0600" stop="20210410230000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">Ideas que cambiaron al mundo</title>
+  </programme>
+  <programme start="20210410230000 -0600" stop="20210410235000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">El Universo</title>
+  </programme>
+  <programme start="20210410235000 -0600" stop="20210411005000 -0600" channel="PREMIUM HD |  HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20210403023000 -0600" stop="20210403030000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Heerenveen, Holanda - final ma</title>
+  </programme>
+  <programme start="20210403030000 -0600" stop="20210403050000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Lugo vs. Sabadell Repetición</title>
+  </programme>
+  <programme start="20210403050000 -0600" stop="20210403060000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports News Repetición</title>
+  </programme>
+  <programme start="20210403060000 -0600" stop="20210403070000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports News Repetición</title>
+  </programme>
+  <programme start="20210403070000 -0600" stop="20210403071500 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">ISU World Short Track Champio</title>
+  </programme>
+  <programme start="20210403071500 -0600" stop="20210403073000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20210403073000 -0600" stop="20210403093000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Wolfsburg vs. Koln En Vivo</title>
+  </programme>
+  <programme start="20210403093000 -0600" stop="20210403094500 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">ISU World Short Track Champio</title>
+  </programme>
+  <programme start="20210403094500 -0600" stop="20210403100000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">ISU World Short Track Champio</title>
+  </programme>
+  <programme start="20210403100000 -0600" stop="20210403123000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Blues vs. Avalanche Repetición</title>
+  </programme>
+  <programme start="20210403123000 -0600" stop="20210403130000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Heerenveen, Holanda - men 500m</title>
+  </programme>
+  <programme start="20210403130000 -0600" stop="20210403150000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Wolfsburg vs. Koln Repetición</title>
+  </programme>
+  <programme start="20210403150000 -0600" stop="20210403160000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Heerenveen, Holanda - ladies 5</title>
+  </programme>
+  <programme start="20210403160000 -0600" stop="20210403180000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Birmingham vs. Swansea City Repetición</title>
+  </programme>
+  <programme start="20210403180000 -0600" stop="20210403190000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">NHL tonight Repetición</title>
+  </programme>
+  <programme start="20210403190000 -0600" stop="20210403213000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Wild vs. Golden Knights En Vivo</title>
+  </programme>
+  <programme start="20210403213000 -0600" stop="20210403220000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Heerenveen, Holanda - ladies t</title>
+  </programme>
+  <programme start="20210403220000 -0600" stop="20210403230000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports News En Vivo</title>
+  </programme>
+  <programme start="20210403230000 -0600" stop="20210404000000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">NHL tonight Repetición</title>
+  </programme>
+  <programme start="20210404000000 -0600" stop="20210404023000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Wild vs. Golden Knights Repetición</title>
+  </programme>
+  <programme start="20210404030000 -0600" stop="20210404040000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports News Repetición</title>
+  </programme>
+  <programme start="20210404040000 -0600" stop="20210404050000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports News Repetición</title>
+  </programme>
+  <programme start="20210404050000 -0600" stop="20210404060000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports News Repetición</title>
+  </programme>
+  <programme start="20210404060000 -0600" stop="20210404070000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports News Repetición</title>
+  </programme>
+  <programme start="20210404070000 -0600" stop="20210404090000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Alcorcón vs. Oviedo Repetición</title>
+  </programme>
+  <programme start="20210404090000 -0600" stop="20210404113000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Wild vs. Golden Knights Repetición</title>
+  </programme>
+  <programme start="20210404113000 -0600" stop="20210404120000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Heerenveen, Holanda - final ma</title>
+  </programme>
+  <programme start="20210404120000 -0600" stop="20210404140000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Zaragoza vs. Cartagena Repetición</title>
+  </programme>
+  <programme start="20210404140000 -0600" stop="20210404160000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Almería vs. Rayo Vallecano Repetición</title>
+  </programme>
+  <programme start="20210404160000 -0600" stop="20210404170000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">NHL tonight Repetición</title>
+  </programme>
+  <programme start="20210404170000 -0600" stop="20210404193000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Stars vs. Hurricanes En Vivo</title>
+  </programme>
+  <programme start="20210404193000 -0600" stop="20210404200000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Heerenveen, Holanda - men 500m</title>
+  </programme>
+  <programme start="20210404200000 -0600" stop="20210404210000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">Heerenveen, Holanda - men 10,0</title>
+  </programme>
+  <programme start="20210404210000 -0600" stop="20210404220000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports News En Vivo</title>
+  </programme>
+  <programme start="20210404220000 -0600" stop="20210404230000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">NHL tonight Repetición</title>
+  </programme>
+  <programme start="20210404230000 -0600" stop="20210405030000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20210405230000 -0600" stop="20210406030000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20210406030000 -0600" stop="20210406070000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20210406070000 -0600" stop="20210406110000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20210406110000 -0600" stop="20210406150000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20210406150000 -0600" stop="20210406190000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20210406190000 -0600" stop="20210406230000 -0600" channel="DEPORTES HD | SKY SPORT PREMIER">
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20210403010000 -0600" stop="20210403013000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403013000 -0600" stop="20210403020000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403020000 -0600" stop="20210403023000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403023000 -0600" stop="20210403030000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403030000 -0600" stop="20210403033000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403033000 -0600" stop="20210403040000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403040000 -0600" stop="20210403043000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403043000 -0600" stop="20210403050000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403050000 -0600" stop="20210403053000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403053000 -0600" stop="20210403060000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403060000 -0600" stop="20210403063000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210403063000 -0600" stop="20210403073000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210403073000 -0600" stop="20210403080500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210403080500 -0600" stop="20210403101500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Real Madrid vs. Eibar</title>
+  </programme>
+  <programme start="20210403101500 -0600" stop="20210403102000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210403102000 -0600" stop="20210403123000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Osasuna vs. Getafe</title>
+  </programme>
+  <programme start="20210403123000 -0600" stop="20210403130000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210403130000 -0600" stop="20210403150000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Paris Saint-Germain vs. Lille</title>
+  </programme>
+  <programme start="20210403150000 -0600" stop="20210403160000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210403160000 -0600" stop="20210403163000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210403163000 -0600" stop="20210403183000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Hatayspor vs. Galatasaray</title>
+  </programme>
+  <programme start="20210403183000 -0600" stop="20210403193000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210403193000 -0600" stop="20210403200000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210403200000 -0600" stop="20210403220000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Real Madrid vs. Eibar</title>
+  </programme>
+  <programme start="20210403220000 -0600" stop="20210404000000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Paris Saint-Germain vs. Lille</title>
+  </programme>
+  <programme start="20210404000000 -0600" stop="20210404010000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210404063000 -0600" stop="20210404073000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210404073000 -0600" stop="20210404080000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210404080000 -0600" stop="20210404080500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210404080500 -0600" stop="20210404101500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Elche vs. Betis</title>
+  </programme>
+  <programme start="20210404101500 -0600" stop="20210404102000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210404102000 -0600" stop="20210404123000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Cádiz vs. Valencia</title>
+  </programme>
+  <programme start="20210404123000 -0600" stop="20210404125000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210404125000 -0600" stop="20210404150000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Sevilla vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20210404150000 -0600" stop="20210404160000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210404160000 -0600" stop="20210404170000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210404170000 -0600" stop="20210404173000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Kas?mpa?a SK vs. Be?ikta</title>
+  </programme>
+  <programme start="20210404173000 -0600" stop="20210404180000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Sevilla vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20210404180000 -0600" stop="20210404183000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Real Madrid vs. Eibar</title>
+  </programme>
+  <programme start="20210404183000 -0600" stop="20210404193000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210404193000 -0600" stop="20210404203000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210404203000 -0600" stop="20210404223000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Kas?mpa?a vs. Besiktas</title>
+  </programme>
+  <programme start="20210404223000 -0600" stop="20210404230000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Hatayspor vs. Galatasaray</title>
+  </programme>
+  <programme start="20210404230000 -0600" stop="20210404233000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Sevilla vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20210404233000 -0600" stop="20210405000000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Real Madrid vs. Eibar</title>
+  </programme>
+  <programme start="20210405050000 -0600" stop="20210405060000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210405060000 -0600" stop="20210405063000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210405063000 -0600" stop="20210405070000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Paris Saint-Germain vs. Lille</title>
+  </programme>
+  <programme start="20210405070000 -0600" stop="20210405080000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210405080000 -0600" stop="20210405083000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Sevilla vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20210405083000 -0600" stop="20210405090000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210405090000 -0600" stop="20210405093000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Real Madrid vs. Eibar</title>
+  </programme>
+  <programme start="20210405093000 -0600" stop="20210405095500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210405095500 -0600" stop="20210405120000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Fenerbahçe vs. Denizlispor</title>
+  </programme>
+  <programme start="20210405120000 -0600" stop="20210405123000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Hatayspor vs. Galatasaray</title>
+  </programme>
+  <programme start="20210405123000 -0600" stop="20210405125000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210405125000 -0600" stop="20210405150000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Barcelona Vs. Valladolid</title>
+  </programme>
+  <programme start="20210405150000 -0600" stop="20210405153000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210405153000 -0600" stop="20210405163000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">La Liga Highlight Zone</title>
+  </programme>
+  <programme start="20210405163000 -0600" stop="20210405170000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Ligue 1 Show</title>
+  </programme>
+  <programme start="20210405170000 -0600" stop="20210405190000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Barcelona Vs. Valladolid</title>
+  </programme>
+  <programme start="20210405190000 -0600" stop="20210405200000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210405200000 -0600" stop="20210405220000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Granada vs. Villarreal</title>
+  </programme>
+  <programme start="20210405220000 -0600" stop="20210405230000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210405230000 -0600" stop="20210406010000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Barcelona Vs. Valladolid</title>
+  </programme>
+  <programme start="20210406063000 -0600" stop="20210406070000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Fenerbahçe vs. Denizlispor</title>
+  </programme>
+  <programme start="20210406080000 -0600" stop="20210406083000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Paris Saint-Germain vs. Lille</title>
+  </programme>
+  <programme start="20210406090000 -0600" stop="20210406093000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Barcelona Vs. Valladolid</title>
+  </programme>
+  <programme start="20210406093000 -0600" stop="20210406100000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Real Madrid vs. Eibar</title>
+  </programme>
+  <programme start="20210406100000 -0600" stop="20210406103000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Analizando El Clásico</title>
+  </programme>
+  <programme start="20210406103000 -0600" stop="20210406104000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210406104000 -0600" stop="20210406124500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Monaco vs. Metz</title>
+  </programme>
+  <programme start="20210406124500 -0600" stop="20210406130000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210406130000 -0600" stop="20210406150000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Alavés vs. Celta</title>
+  </programme>
+  <programme start="20210406150000 -0600" stop="20210406160000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">El Clasico: The Movie</title>
+  </programme>
+  <programme start="20210406160000 -0600" stop="20210406160500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210406160500 -0600" stop="20210406181500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Emelec vs. Macara</title>
+  </programme>
+  <programme start="20210406181500 -0600" stop="20210406182000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210406182000 -0600" stop="20210406203000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">San Lorenzo vs. Santos</title>
+  </programme>
+  <programme start="20210406203000 -0600" stop="20210406223000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">2019: Real Madrid vs. Barcelona</title>
+  </programme>
+  <programme start="20210406223000 -0600" stop="20210406230000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210406230000 -0600" stop="20210407010000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Nacional (PAR) vs. 12 de Octubre</title>
+  </programme>
+  <programme start="20210407230000 -0600" stop="20210408010000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Nacional (PAR) vs. 12 de Octubre</title>
+  </programme>
+  <programme start="20210408050000 -0600" stop="20210408060000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">La Liga Highlight Zone</title>
+  </programme>
+  <programme start="20210408063000 -0600" stop="20210408083000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Deportivo Cali vs. Deportes Tolima</title>
+  </programme>
+  <programme start="20210408090000 -0600" stop="20210408093000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Analizando El Clásico</title>
+  </programme>
+  <programme start="20210408095500 -0600" stop="20210408120000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Besiktas vs. Alanyaspor</title>
+  </programme>
+  <programme start="20210408120000 -0600" stop="20210408123000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">CONMEBOL Sudamericana: Huachipato vs. Antofagasta</title>
+  </programme>
+  <programme start="20210408123000 -0600" stop="20210408125000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210408125000 -0600" stop="20210408150000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Real Sociedad vs. Athletic Club</title>
+  </programme>
+  <programme start="20210408150000 -0600" stop="20210408160000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Road to El Clásico</title>
+  </programme>
+  <programme start="20210408160000 -0600" stop="20210408160500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210408160500 -0600" stop="20210408181500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Independiente del Valle vs. Gremio</title>
+  </programme>
+  <programme start="20210408181500 -0600" stop="20210408182000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210408182000 -0600" stop="20210408203000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Defensa y Justicia vs. Palmeiras</title>
+  </programme>
+  <programme start="20210408203000 -0600" stop="20210408223000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">2019-2020: Barcelona vs. Real Madrid</title>
+  </programme>
+  <programme start="20210408223000 -0600" stop="20210408230000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">This is Paris</title>
+  </programme>
+  <programme start="20210408230000 -0600" stop="20210409010000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Mineros de Guayana vs. Aragua</title>
+  </programme>
+  <programme start="20210409050000 -0600" stop="20210409053000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210409053000 -0600" stop="20210409060000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">This is Paris</title>
+  </programme>
+  <programme start="20210409063000 -0600" stop="20210409083000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Nacional Potosí vs. Guabirá</title>
+  </programme>
+  <programme start="20210409083000 -0600" stop="20210409090000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210409090000 -0600" stop="20210409095500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">El Clasico: The Movie</title>
+  </programme>
+  <programme start="20210409095500 -0600" stop="20210409120000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Malatyaspor vs. Fenerbahce SK</title>
+  </programme>
+  <programme start="20210409120000 -0600" stop="20210409140000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Sport Huancayo Vs. Utc</title>
+  </programme>
+  <programme start="20210409140000 -0600" stop="20210409160000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Libertad vs. Atlético Nacional</title>
+  </programme>
+  <programme start="20210409160500 -0600" stop="20210409181500 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Guayaquil City vs. Aucas</title>
+  </programme>
+  <programme start="20210409182000 -0600" stop="20210409203000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">Bolívar vs. Junior</title>
+  </programme>
+  <programme start="20210409203000 -0600" stop="20210409213000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210409213000 -0600" stop="20210409220000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20210409220000 -0600" stop="20210409230000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210409230000 -0600" stop="20210410010000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">2019-2020: Real Madrid vs. Barcelona</title>
+  </programme>
+  <programme start="20210410230000 -0600" stop="20210411010000 -0600" channel="DEPORTES HD | BEIN SPORTS LA LIGA">
+    <title lang="es">2019-2020: Real Madrid vs. Barcelona</title>
   </programme>
 </tv>
