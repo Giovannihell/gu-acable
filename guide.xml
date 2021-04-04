@@ -1,131 +1,97 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="PREMIUM HD | CINEMAX">
-    <display-name lang="es">PREMIUM HD | CINEMAX</display-name>
+  <channel id="REMIUM HD |  ANIMAL PLANET">
+    <display-name lang="es">REMIUM HD |  ANIMAL PLANET</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PREMIUM HD |  ANIMAL PLANET">
-    <display-name lang="es">PREMIUM HD |  ANIMAL PLANET</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <programme start="20210403022700 -0600" stop="20210403035100 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Frankenstein</title>
-  </programme>
-  <programme start="20210403035100 -0600" stop="20210403060000 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Dios no está muerto</title>
-  </programme>
-  <programme start="20210403060000 -0600" stop="20210403083200 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Revancha</title>
-  </programme>
-  <programme start="20210403083200 -0600" stop="20210403110200 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápidos y Furiosos 6</title>
-  </programme>
-  <programme start="20210403110200 -0600" stop="20210403125200 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Persecución al Límite</title>
-  </programme>
-  <programme start="20210403125200 -0600" stop="20210403145400 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápido y Furioso</title>
-  </programme>
-  <programme start="20210403145400 -0600" stop="20210403165800 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Más rápido más furioso</title>
-  </programme>
-  <programme start="20210403165800 -0600" stop="20210403195800 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápido y furioso Reto Tokio</title>
-  </programme>
-  <programme start="20210403195800 -0600" stop="20210403220000 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápidos y furiosos</title>
-  </programme>
-  <programme start="20210403220000 -0600" stop="20210404002800 -0600" channel="PREMIUM HD | CINEMAX">
-    <title lang="es">Rápidos y Furiosos 6</title>
-  </programme>
-  <programme start="20210403001700 -0600" stop="20210403011000 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403001700 -0600" stop="20210403011000 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Pesca mortal</title>
   </programme>
-  <programme start="20210403011000 -0600" stop="20210403020500 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403011000 -0600" stop="20210403020500 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Ríos de África</title>
   </programme>
-  <programme start="20210403020500 -0600" stop="20210403025600 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403020500 -0600" stop="20210403025600 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Wild Frank: al rescate</title>
   </programme>
-  <programme start="20210403025600 -0600" stop="20210403034600 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403025600 -0600" stop="20210403034600 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Evan a lo salvaje</title>
   </programme>
-  <programme start="20210403034600 -0600" stop="20210403043600 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403034600 -0600" stop="20210403043600 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Monstruos de río aguas desco</title>
   </programme>
-  <programme start="20210403043600 -0600" stop="20210403053000 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403043600 -0600" stop="20210403053000 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Pesca mortal</title>
   </programme>
-  <programme start="20210403053000 -0600" stop="20210403060000 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403053000 -0600" stop="20210403060000 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Misterios del mundo anima</title>
   </programme>
-  <programme start="20210403060000 -0600" stop="20210403063000 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403060000 -0600" stop="20210403063000 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Misterios del mundo anima</title>
   </programme>
-  <programme start="20210403063000 -0600" stop="20210403072400 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403063000 -0600" stop="20210403072400 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">El zoológico del Bronx</title>
   </programme>
-  <programme start="20210403072400 -0600" stop="20210403081800 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403072400 -0600" stop="20210403081800 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">El zoológico del Bronx</title>
   </programme>
-  <programme start="20210403081800 -0600" stop="20210403091100 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403081800 -0600" stop="20210403091100 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">El acuario</title>
   </programme>
-  <programme start="20210403091100 -0600" stop="20210403100500 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403091100 -0600" stop="20210403100500 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">El acuario</title>
   </programme>
-  <programme start="20210403100500 -0600" stop="20210403105900 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403100500 -0600" stop="20210403105900 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Refugio en el granero</title>
   </programme>
-  <programme start="20210403105900 -0600" stop="20210403124100 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403105900 -0600" stop="20210403124100 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Pesca mortal</title>
   </programme>
-  <programme start="20210403124100 -0600" stop="20210403133400 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403124100 -0600" stop="20210403133400 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Pesca de gigantes</title>
   </programme>
-  <programme start="20210403133400 -0600" stop="20210403140100 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403133400 -0600" stop="20210403140100 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210403140100 -0600" stop="20210403142800 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403140100 -0600" stop="20210403142800 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210403142800 -0600" stop="20210403145400 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403142800 -0600" stop="20210403145400 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210403145400 -0600" stop="20210403152100 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403145400 -0600" stop="20210403152100 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210403152100 -0600" stop="20210403154800 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403152100 -0600" stop="20210403154800 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210403154800 -0600" stop="20210403161500 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403154800 -0600" stop="20210403161500 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210403161500 -0600" stop="20210403170800 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403161500 -0600" stop="20210403170800 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Wild Frank En busca del</title>
   </programme>
-  <programme start="20210403170800 -0600" stop="20210403180100 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403170800 -0600" stop="20210403180100 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Wild Frank En busca del</title>
   </programme>
-  <programme start="20210403180100 -0600" stop="20210403185400 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403180100 -0600" stop="20210403185400 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Planeta mutante</title>
   </programme>
-  <programme start="20210403185400 -0600" stop="20210403194600 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403185400 -0600" stop="20210403194600 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Costa Rica salvaje</title>
   </programme>
-  <programme start="20210403194600 -0600" stop="20210403203800 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403194600 -0600" stop="20210403203800 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Europa salvaje</title>
   </programme>
-  <programme start="20210403203800 -0600" stop="20210403213100 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403203800 -0600" stop="20210403213100 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Para siempre Steve</title>
   </programme>
-  <programme start="20210403213100 -0600" stop="20210403222400 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403213100 -0600" stop="20210403222400 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Dr. Jeff, veterinario</title>
   </programme>
-  <programme start="20210403222400 -0600" stop="20210403231700 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403222400 -0600" stop="20210403231700 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">Refugio en el granero</title>
   </programme>
-  <programme start="20210403231700 -0600" stop="20210404001000 -0600" channel="PREMIUM HD |  ANIMAL PLANET">
+  <programme start="20210403231700 -0600" stop="20210404001000 -0600" channel="REMIUM HD |  ANIMAL PLANET">
     <title lang="es">El cazador de cocodrilos</title>
   </programme>
 </tv>
