@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Example">
     <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
   </channel>
   <programme start="20210407000000 +0100" stop="20210407235900 +0100" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
