@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DUAL | AMC FHD">
+    <display-name lang="es">DUAL | AMC FHD</display-name>
+    <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210410000000 +0100" stop="20210410235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
-  </programme>
 </tv>
