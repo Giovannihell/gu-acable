@@ -8,13 +8,17 @@
     <display-name lang="es">DUAL | CINECANAL FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="DUAL | DISCOVERY CHANNEL FHD">
+    <display-name lang="es">DUAL | DISCOVERY CHANNEL FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210410010500 -0500" stop="20210410030000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">El sabotaje</title>
   </programme>
   <programme start="20210410030000 -0500" stop="20210410040000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -39,7 +43,7 @@
   <programme start="20210410040000 -0500" stop="20210410050000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -99,7 +103,7 @@
   </programme>
   <programme start="20210410174000 -0500" stop="20210410191500 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Inframundo: La Rebelión de los Lycans</title>
-    <desc lang="es">Los orígenes de los eventos que se llevaron a cabo que luego dieron nacimiento de la guerra entre Vampiros y Hombres Lobo(n)</desc>
+    <desc lang="es">Los orígenes de los eventos que se llevaron a cabo que luego dieron nacimiento de la guerra entre Vampiros y Hombres Lobo</desc>
     <credits>
       <actor>Michael Sheen</actor>
       <actor>Bill Nighy</actor>
@@ -120,7 +124,7 @@
   <programme start="20210410191500 -0500" stop="20210410210000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Resident Evil</title>
     <title lang="xx">Resident Evil</title>
-    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo(n)</desc>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo</desc>
     <credits>
       <actor>Milla Jovovich</actor>
       <actor>Michelle Rodríguez</actor>
@@ -145,7 +149,7 @@
   <programme start="20210410224000 -0500" stop="20210411002000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Resident Evil: Extinción</title>
     <title lang="xx">Resident Evil: Extinction</title>
-    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp(n)</desc>
+    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp</desc>
     <credits>
       <actor>Milla Jovovich</actor>
       <actor>Ali Larter</actor>
@@ -169,7 +173,7 @@
   <programme start="20210411224000 -0500" stop="20210412002000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Resident Evil: Extinción</title>
     <title lang="xx">Resident Evil: Extinction</title>
-    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp(n)</desc>
+    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp</desc>
     <credits>
       <actor>Milla Jovovich</actor>
       <actor>Ali Larter</actor>
@@ -193,7 +197,7 @@
   <programme start="20210412002000 -0500" stop="20210412021000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Resident Evil</title>
     <title lang="xx">Resident Evil</title>
-    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo(n)</desc>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo</desc>
     <credits>
       <actor>Milla Jovovich</actor>
       <actor>Michelle Rodríguez</actor>
@@ -218,7 +222,7 @@
   <programme start="20210412035500 -0500" stop="20210412045500 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -243,7 +247,7 @@
   <programme start="20210412045500 -0500" stop="20210412060000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -307,7 +311,7 @@
   <programme start="20210412172500 -0500" stop="20210412191000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Resident Evil</title>
     <title lang="xx">Resident Evil</title>
-    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo(n)</desc>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo</desc>
     <credits>
       <actor>Milla Jovovich</actor>
       <actor>Michelle Rodríguez</actor>
@@ -332,7 +336,7 @@
   <programme start="20210412210000 -0500" stop="20210412224000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Resident Evil: Extinción</title>
     <title lang="xx">Resident Evil: Extinction</title>
-    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp(n)</desc>
+    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp</desc>
     <credits>
       <actor>Milla Jovovich</actor>
       <actor>Ali Larter</actor>
@@ -365,7 +369,7 @@
   <programme start="20210414023000 -0500" stop="20210414032500 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -390,7 +394,7 @@
   <programme start="20210414032500 -0500" stop="20210414042000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -467,7 +471,7 @@
   <programme start="20210414210000 -0500" stop="20210414220000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -492,7 +496,7 @@
   <programme start="20210414220000 -0500" stop="20210414230000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -523,7 +527,7 @@
   <programme start="20210415030500 -0500" stop="20210415040000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -548,7 +552,7 @@
   <programme start="20210415040000 -0500" stop="20210415050000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -583,7 +587,7 @@
   <programme start="20210415150000 -0500" stop="20210415170500 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Un Lugar Donde Refugiarse</title>
     <title lang="xx">Safe Haven (2013)</title>
-    <desc lang="es">Katie llega a una ciudad costera trata de rehacer su vida, pero el cariño de un extraño hace que vuelva a confiar en la gente, su oscuro pasado la persigue(n)</desc>
+    <desc lang="es">Katie llega a una ciudad costera trata de rehacer su vida, pero el cariño de un extraño hace que vuelva a confiar en la gente, su oscuro pasado la persigue</desc>
     <credits>
       <actor>Josh Duhamel</actor>
       <actor>Julianne Hough</actor>
@@ -612,7 +616,7 @@
   <programme start="20210415225000 -0500" stop="20210416011500 -0500" channel="DUAL | AMC FHD">
     <title lang="es">El Justiciero (The Equalizer)</title>
     <title lang="xx">The Equalizer</title>
-    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(n)</desc>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos</desc>
     <credits>
       <actor>Denzel Washington</actor>
       <actor>Marton Csokas</actor>
@@ -633,7 +637,7 @@
   <programme start="20210416225000 -0500" stop="20210417011500 -0500" channel="DUAL | AMC FHD">
     <title lang="es">El Justiciero (The Equalizer)</title>
     <title lang="xx">The Equalizer</title>
-    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(n)</desc>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos</desc>
     <credits>
       <actor>Denzel Washington</actor>
       <actor>Marton Csokas</actor>
@@ -657,7 +661,7 @@
   <programme start="20210417032000 -0500" stop="20210417041500 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -682,7 +686,7 @@
   <programme start="20210417041500 -0500" stop="20210417051000 -0500" channel="DUAL | AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -734,7 +738,7 @@
   <programme start="20210417210000 -0500" stop="20210417232500 -0500" channel="DUAL | AMC FHD">
     <title lang="es">El Justiciero (The Equalizer)</title>
     <title lang="xx">The Equalizer</title>
-    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(n)</desc>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos</desc>
     <credits>
       <actor>Denzel Washington</actor>
       <actor>Marton Csokas</actor>
@@ -791,7 +795,7 @@
   <programme start="20210410191200 -0500" stop="20210410210000 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">La Torre Oscura</title>
     <title lang="xx">The Dark Tower</title>
-    <desc lang="es">Un pistolero busca la Torre Oscura para poder salvar su mundo, pero su camino estará bloqueado por monstruos y un hechicero conocido como el hombre de negro(n)</desc>
+    <desc lang="es">Un pistolero busca la Torre Oscura para poder salvar su mundo, pero su camino estará bloqueado por monstruos y un hechicero conocido como el hombre de negro</desc>
     <credits>
       <actor>Idris Elba</actor>
       <actor>Matthew McConaughey</actor>
@@ -815,7 +819,7 @@
   </programme>
   <programme start="20210411031700 -0500" stop="20210411051400 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">La Llegada (2016)</title>
-    <desc lang="es">Una misteriosa nave aterriza en el planeta, un equipo de élite liderado por una experta en lingüística lucha contra el tiempo para encontrar respuestas(n)</desc>
+    <desc lang="es">Una misteriosa nave aterriza en el planeta, un equipo de élite liderado por una experta en lingüística lucha contra el tiempo para encontrar respuestas</desc>
     <credits>
       <actor>Amy Adams</actor>
       <actor>Jeremy Renner</actor>
@@ -846,7 +850,7 @@
   <programme start="20210411114700 -0500" stop="20210411134900 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">La Quinta Ola</title>
     <title lang="xx">The 5th Wave</title>
-    <desc lang="es">Cuatro holas de ataques alienígenas han dejado la tierra devastada. Cassie huye tratando de salvar la vida de su hermano de la próxima ola(n)</desc>
+    <desc lang="es">Cuatro holas de ataques alienígenas han dejado la tierra devastada. Cassie huye tratando de salvar la vida de su hermano de la próxima ola</desc>
     <credits>
       <actor>Chloë Grace Moretz</actor>
       <actor>Nick Robinson</actor>
@@ -870,7 +874,7 @@
   <programme start="20210411134900 -0500" stop="20210411164400 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">Blade Runner 2049</title>
     <title lang="xx">Blade Runner 2049</title>
-    <desc lang="es">Treinta años han pasado desde que Rick haya desapareció, ahora K necesitara buscarlo para encontrar las respuestas de lo que está pasando en la ciudad(n)</desc>
+    <desc lang="es">Treinta años han pasado desde que Rick haya desapareció, ahora K necesitara buscarlo para encontrar las respuestas de lo que está pasando en la ciudad</desc>
     <credits>
       <actor>Ryan Gosling</actor>
       <actor>Harrison Ford</actor>
@@ -894,7 +898,7 @@
   <programme start="20210411164400 -0500" stop="20210411184600 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">Búsqueda Implacable 3</title>
     <title lang="xx">Taken 3</title>
-    <desc lang="es">Brian Mylls es acusado por el asesinato de su ex esposa Leonore, ahora deberá descubrir quien asesino a su ex mujer y proteger a su hija(n)</desc>
+    <desc lang="es">Brian Mylls es acusado por el asesinato de su ex esposa Leonore, ahora deberá descubrir quien asesino a su ex mujer y proteger a su hija</desc>
     <credits>
       <actor>Liam Neeson</actor>
       <actor>Famke Janssen</actor>
@@ -919,7 +923,7 @@
   <programme start="20210411210000 -0500" stop="20210411230500 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">Proyecto Géminis</title>
     <title lang="xx">Gemini Man</title>
-    <desc lang="es">Henry Brogan es un asesino de élite, que misteriosamente es atacado y perseguido por un joven que aparentemente puede predecir cada uno de sus movimientos(n)</desc>
+    <desc lang="es">Henry Brogan es un asesino de élite, que misteriosamente es atacado y perseguido por un joven que aparentemente puede predecir cada uno de sus movimientos</desc>
     <credits>
       <actor>Will Smith</actor>
       <actor>Mary Elizabeth Winstead</actor>
@@ -966,7 +970,7 @@
   <programme start="20210412141400 -0500" stop="20210412161700 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">Proyecto Géminis</title>
     <title lang="xx">Gemini Man</title>
-    <desc lang="es">Henry Brogan es un asesino de élite, que misteriosamente es atacado y perseguido por un joven que aparentemente puede predecir cada uno de sus movimientos(n)</desc>
+    <desc lang="es">Henry Brogan es un asesino de élite, que misteriosamente es atacado y perseguido por un joven que aparentemente puede predecir cada uno de sus movimientos</desc>
     <credits>
       <actor>Will Smith</actor>
       <actor>Mary Elizabeth Winstead</actor>
@@ -986,7 +990,7 @@
   <programme start="20210412161700 -0500" stop="20210412191100 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">Blade Runner 2049</title>
     <title lang="xx">Blade Runner 2049</title>
-    <desc lang="es">Treinta años han pasado desde que Rick haya desapareció, ahora K necesitara buscarlo para encontrar las respuestas de lo que está pasando en la ciudad(n)</desc>
+    <desc lang="es">Treinta años han pasado desde que Rick haya desapareció, ahora K necesitara buscarlo para encontrar las respuestas de lo que está pasando en la ciudad</desc>
     <credits>
       <actor>Ryan Gosling</actor>
       <actor>Harrison Ford</actor>
@@ -1022,7 +1026,7 @@
   <programme start="20210414004000 -0500" stop="20210414025000 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">La Quinta Ola</title>
     <title lang="xx">The 5th Wave</title>
-    <desc lang="es">Cuatro holas de ataques alienígenas han dejado la tierra devastada. Cassie huye tratando de salvar la vida de su hermano de la próxima ola(n)</desc>
+    <desc lang="es">Cuatro holas de ataques alienígenas han dejado la tierra devastada. Cassie huye tratando de salvar la vida de su hermano de la próxima ola</desc>
     <credits>
       <actor>Chloë Grace Moretz</actor>
       <actor>Nick Robinson</actor>
@@ -1058,7 +1062,7 @@
   <programme start="20210414115000 -0500" stop="20210414140000 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">27 Bodas</title>
     <title lang="xx">27 Dresses</title>
-    <desc lang="es">Jane, la eterna dama de honor que cuando está a punto de confesarle su amor a su jefe George, se da cuenta que él a quien en realidad quiere es a su hermana Tess(n)</desc>
+    <desc lang="es">Jane, la eterna dama de honor que cuando está a punto de confesarle su amor a su jefe George, se da cuenta que él a quien en realidad quiere es a su hermana Tess</desc>
     <credits>
       <actor>Katherine Heigl</actor>
       <actor>James Marsden</actor>
@@ -1080,7 +1084,7 @@
   </programme>
   <programme start="20210414140000 -0500" stop="20210414161000 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">La Llegada (2016)</title>
-    <desc lang="es">Una misteriosa nave aterriza en el planeta, un equipo de élite liderado por una experta en lingüística lucha contra el tiempo para encontrar respuestas(n)</desc>
+    <desc lang="es">Una misteriosa nave aterriza en el planeta, un equipo de élite liderado por una experta en lingüística lucha contra el tiempo para encontrar respuestas</desc>
     <credits>
       <actor>Amy Adams</actor>
       <actor>Jeremy Renner</actor>
@@ -1126,7 +1130,7 @@
   <programme start="20210416094000 -0500" stop="20210416115000 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">27 Bodas</title>
     <title lang="xx">27 Dresses</title>
-    <desc lang="es">Jane, la eterna dama de honor que cuando está a punto de confesarle su amor a su jefe George, se da cuenta que él a quien en realidad quiere es a su hermana Tess(n)</desc>
+    <desc lang="es">Jane, la eterna dama de honor que cuando está a punto de confesarle su amor a su jefe George, se da cuenta que él a quien en realidad quiere es a su hermana Tess</desc>
     <credits>
       <actor>Katherine Heigl</actor>
       <actor>James Marsden</actor>
@@ -1158,7 +1162,7 @@
   <programme start="20210416182000 -0500" stop="20210416210000 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">Duro de Matar 4.0</title>
     <title lang="xx">Live Free or Die Hard</title>
-    <desc lang="es">John McClane, un policía hecho a la antigua deberá detener un ataque terrorista de alta tecnología, antes de que su autor intelectual se salga con la suya(n)</desc>
+    <desc lang="es">John McClane, un policía hecho a la antigua deberá detener un ataque terrorista de alta tecnología, antes de que su autor intelectual se salga con la suya</desc>
     <credits>
       <actor>Bruce Willis</actor>
       <actor>Justin Long</actor>
@@ -1181,7 +1185,7 @@
   <programme start="20210416210000 -0500" stop="20210416225000 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">La Torre Oscura</title>
     <title lang="xx">The Dark Tower</title>
-    <desc lang="es">Un pistolero busca la Torre Oscura para poder salvar su mundo, pero su camino estará bloqueado por monstruos y un hechicero conocido como el hombre de negro(n)</desc>
+    <desc lang="es">Un pistolero busca la Torre Oscura para poder salvar su mundo, pero su camino estará bloqueado por monstruos y un hechicero conocido como el hombre de negro</desc>
     <credits>
       <actor>Idris Elba</actor>
       <actor>Matthew McConaughey</actor>
@@ -1199,5 +1203,239 @@
   </programme>
   <programme start="20210417225000 -0500" stop="20210418005000 -0500" channel="DUAL | CINECANAL FHD">
     <title lang="es">La vigilante del futuro</title>
+  </programme>
+  <programme start="20210410002700 -0500" stop="20210410012000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Batalla de creadores</title>
+  </programme>
+  <programme start="20210410012000 -0500" stop="20210410020800 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20210410020800 -0500" stop="20210410025600 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20210410025600 -0500" stop="20210410034400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Desaparecidos</title>
+  </programme>
+  <programme start="20210410034400 -0500" stop="20210410043200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20210410043200 -0500" stop="20210410050000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Operación Frontera Latinoamérica</title>
+  </programme>
+  <programme start="20210410050000 -0500" stop="20210410055000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Cazador de asesinos</title>
+  </programme>
+  <programme start="20210410055000 -0500" stop="20210410064100 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">A prueba de todo</title>
+  </programme>
+  <programme start="20210410064100 -0500" stop="20210410072500 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+  </programme>
+  <programme start="20210410072500 -0500" stop="20210410082100 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20210410082100 -0500" stop="20210410084900 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Dentro de la fábrica</title>
+  </programme>
+  <programme start="20210410084900 -0500" stop="20210410094500 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Alaska, la última frontera</title>
+  </programme>
+  <programme start="20210410094500 -0500" stop="20210410104100 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Ríos majestuosos con Jeremy Wade</title>
+  </programme>
+  <programme start="20210410104100 -0500" stop="20210410113900 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20210410113900 -0500" stop="20210410123600 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20210410123600 -0500" stop="20210410132800 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+  <programme start="20210410132800 -0500" stop="20210410142400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Emergencia, la hora crítica</title>
+  </programme>
+  <programme start="20210410142400 -0500" stop="20210410152000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+  </programme>
+  <programme start="20210410152000 -0500" stop="20210410161600 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Parásitos asesinos</title>
+  </programme>
+  <programme start="20210410161600 -0500" stop="20210410171200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Parásitos asesinos</title>
+  </programme>
+  <programme start="20210410171200 -0500" stop="20210410180800 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Parásitos asesinos</title>
+  </programme>
+  <programme start="20210410180800 -0500" stop="20210410190400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Parásitos asesinos</title>
+  </programme>
+  <programme start="20210410190400 -0500" stop="20210410200000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+  </programme>
+  <programme start="20210410200000 -0500" stop="20210410215200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20210410215200 -0500" stop="20210410234400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Kilos mortales sus vidas hoy</title>
+  </programme>
+  <programme start="20210410234400 -0500" stop="20210411003200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210411003200 -0500" stop="20210411012400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Crímenes en la red</title>
+  </programme>
+  <programme start="20210411012400 -0500" stop="20210411021200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+  </programme>
+  <programme start="20210411021200 -0500" stop="20210411030000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20210411030000 -0500" stop="20210411034400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Desaparecidos</title>
+  </programme>
+  <programme start="20210411034400 -0500" stop="20210411043200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20210411043200 -0500" stop="20210411050000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Operación Frontera Latinoamérica</title>
+  </programme>
+  <programme start="20210411050000 -0500" stop="20210411055000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Cazador de asesinos</title>
+  </programme>
+  <programme start="20210411055000 -0500" stop="20210411064300 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">A prueba de todo</title>
+  </programme>
+  <programme start="20210411064300 -0500" stop="20210411072700 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+  </programme>
+  <programme start="20210411072700 -0500" stop="20210411082300 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20210411082300 -0500" stop="20210411085100 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Dentro de la fábrica</title>
+  </programme>
+  <programme start="20210411085100 -0500" stop="20210411094700 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20210411094700 -0500" stop="20210411104300 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Bear Grylls vs. Tiburones</title>
+  </programme>
+  <programme start="20210411104300 -0500" stop="20210411113900 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Horario escualo 2</title>
+  </programme>
+  <programme start="20210411113900 -0500" stop="20210411123500 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">El Cañón del Diablo</title>
+  </programme>
+  <programme start="20210411123500 -0500" stop="20210411133000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+  <programme start="20210411133000 -0500" stop="20210411135800 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Control de fronteras España</title>
+  </programme>
+  <programme start="20210411135800 -0500" stop="20210411142600 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Control de fronteras España</title>
+  </programme>
+  <programme start="20210411142600 -0500" stop="20210411145400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Control de fronteras España</title>
+  </programme>
+  <programme start="20210411145400 -0500" stop="20210411155000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Los millones de Escobar</title>
+  </programme>
+  <programme start="20210411155000 -0500" stop="20210411164600 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">El misterio del vuelo MH370</title>
+  </programme>
+  <programme start="20210411164600 -0500" stop="20210411174200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Fuga casi perfecta</title>
+  </programme>
+  <programme start="20210411174200 -0500" stop="20210411183800 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Fuga casi perfecta</title>
+  </programme>
+  <programme start="20210411183800 -0500" stop="20210411193400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Caravanas</title>
+  </programme>
+  <programme start="20210411193400 -0500" stop="20210411203000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Muros</title>
+  </programme>
+  <programme start="20210411203000 -0500" stop="20210411205600 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Encontrando los nuevos caminos de Colombia</title>
+  </programme>
+  <programme start="20210411205600 -0500" stop="20210411222100 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">La vacuna carrera contra el COVID</title>
+  </programme>
+  <programme start="20210411222100 -0500" stop="20210411231700 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20210411231700 -0500" stop="20210412000900 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20210412231700 -0500" stop="20210413000900 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20210413000900 -0500" stop="20210413005700 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210413005700 -0500" stop="20210413014500 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Crímenes en la red</title>
+  </programme>
+  <programme start="20210413014500 -0500" stop="20210413023300 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">La maldición de Shepherdstown</title>
+  </programme>
+  <programme start="20210413023300 -0500" stop="20210413031700 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20210413031700 -0500" stop="20210413034400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Cámara testigo</title>
+  </programme>
+  <programme start="20210413034400 -0500" stop="20210413043200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20210413043200 -0500" stop="20210413050000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Operación Frontera Latinoamérica</title>
+  </programme>
+  <programme start="20210413050000 -0500" stop="20210413055000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Cazador de asesinos</title>
+  </programme>
+  <programme start="20210413055000 -0500" stop="20210413064100 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">A prueba de todo</title>
+  </programme>
+  <programme start="20210413064100 -0500" stop="20210413072500 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Dinosaurios modernos</title>
+  </programme>
+  <programme start="20210413072500 -0500" stop="20210413081900 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Alaska hombres primitivos</title>
+  </programme>
+  <programme start="20210413081900 -0500" stop="20210413084700 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Dentro de la fábrica</title>
+  </programme>
+  <programme start="20210413084700 -0500" stop="20210413094100 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20210413094100 -0500" stop="20210413104000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Reto x2 Brasil</title>
+  </programme>
+  <programme start="20210413104000 -0500" stop="20210413113600 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20210413113600 -0500" stop="20210413123200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">A la medida</title>
+  </programme>
+  <programme start="20210413123200 -0500" stop="20210413132800 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Portales hacia la muerte</title>
+  </programme>
+  <programme start="20210413132800 -0500" stop="20210413142400 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">A la caza de fantasmas</title>
+  </programme>
+  <programme start="20210413142400 -0500" stop="20210413152000 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">A la caza de fantasmas</title>
+  </programme>
+  <programme start="20210413152000 -0500" stop="20210413161600 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">A la caza de fantasmas</title>
+  </programme>
+  <programme start="20210413161600 -0500" stop="20210413171200 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">A la caza de fantasmas</title>
+  </programme>
+  <programme start="20210413171200 -0500" stop="20210413180800 -0500" channel="DUAL | DISCOVERY CHANNEL FHD">
+    <title lang="es">Fuga casi perfecta</title>
   </programme>
 </tv>
