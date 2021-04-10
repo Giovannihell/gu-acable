@@ -4,4 +4,1200 @@
     <display-name lang="es">DUAL | AMC FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="DUAL | CINECANAL FHD">
+    <display-name lang="es">DUAL | CINECANAL FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210410010500 -0500" stop="20210410030000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El sabotaje</title>
+  </programme>
+  <programme start="20210410030000 -0500" stop="20210410040000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 8</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210410040000 -0500" stop="20210410050000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 9</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210410050000 -0500" stop="20210410053000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210410053000 -0500" stop="20210410060000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210410060000 -0500" stop="20210410063000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210410063000 -0500" stop="20210410070000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210410070000 -0500" stop="20210410073000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210410073000 -0500" stop="20210410080000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210410080000 -0500" stop="20210410083000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210410083000 -0500" stop="20210410090000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210410090000 -0500" stop="20210410105000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">An accidental studio</title>
+  </programme>
+  <programme start="20210410105000 -0500" stop="20210410131000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Punto límite</title>
+  </programme>
+  <programme start="20210410131000 -0500" stop="20210410151500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El Vengador Del Futuro</title>
+  </programme>
+  <programme start="20210410151500 -0500" stop="20210410174000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Inframundo</title>
+  </programme>
+  <programme start="20210410174000 -0500" stop="20210410191500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Inframundo: La Rebelión de los Lycans</title>
+    <desc lang="es">Los orígenes de los eventos que se llevaron a cabo que luego dieron nacimiento de la guerra entre Vampiros y Hombres Lobo(n)</desc>
+    <credits>
+      <actor>Michael Sheen</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Rhona Mitra</actor>
+      <actor>Kevin Grevioux</actor>
+      <actor>Steven Mackintosh</actor>
+      <actor>Kate Beckinsale</actor>
+      <producer>Len Wiseman</producer>
+      <producer>Tom Rosenberg</producer>
+      <composer>Paul Haslinger</composer>
+    </credits>
+    <date>2009</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/inframundo_la_rebelion_de_los_lycans.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210410191500 -0500" stop="20210410210000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Resident Evil</title>
+    <title lang="xx">Resident Evil</title>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Michelle Rodríguez</actor>
+      <actor>Colin Salmon</actor>
+      <actor>Eric Mabius</actor>
+      <actor>James Purefoy</actor>
+      <actor>Martin Crewes</actor>
+      <producer>Paul W. S. Anderson</producer>
+      <composer>Marco Beltrami</composer>
+      <composer>Marilyn Manson</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_el_huesped_maldito.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210410210000 -0500" stop="20210410224000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Resident Evil 2 Apocalipsis</title>
+  </programme>
+  <programme start="20210410224000 -0500" stop="20210411002000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Resident Evil: Extinción</title>
+    <title lang="xx">Resident Evil: Extinction</title>
+    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Ali Larter</actor>
+      <actor>Oded Fehr</actor>
+      <actor>Iain Glen</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Linden Ashby</actor>
+      <actor>Ashanti Douglas</actor>
+      <actor>Chris Egan</actor>
+      <producer>Paul W. S. Anderson</producer>
+      <producer>Jeremy Bolt</producer>
+      <composer>Charlie Clouser</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_extincion.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210411224000 -0500" stop="20210412002000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Resident Evil: Extinción</title>
+    <title lang="xx">Resident Evil: Extinction</title>
+    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Ali Larter</actor>
+      <actor>Oded Fehr</actor>
+      <actor>Iain Glen</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Linden Ashby</actor>
+      <actor>Ashanti Douglas</actor>
+      <actor>Chris Egan</actor>
+      <producer>Paul W. S. Anderson</producer>
+      <producer>Jeremy Bolt</producer>
+      <composer>Charlie Clouser</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_extincion.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210412002000 -0500" stop="20210412021000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Resident Evil</title>
+    <title lang="xx">Resident Evil</title>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Michelle Rodríguez</actor>
+      <actor>Colin Salmon</actor>
+      <actor>Eric Mabius</actor>
+      <actor>James Purefoy</actor>
+      <actor>Martin Crewes</actor>
+      <producer>Paul W. S. Anderson</producer>
+      <composer>Marco Beltrami</composer>
+      <composer>Marilyn Manson</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_el_huesped_maldito.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210412021000 -0500" stop="20210412035500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Vice</title>
+  </programme>
+  <programme start="20210412035500 -0500" stop="20210412045500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 10</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210412045500 -0500" stop="20210412060000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 11</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210412060000 -0500" stop="20210412063000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412063000 -0500" stop="20210412070000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412070000 -0500" stop="20210412073000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412073000 -0500" stop="20210412080000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412080000 -0500" stop="20210412083000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412083000 -0500" stop="20210412090000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412090000 -0500" stop="20210412093000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412093000 -0500" stop="20210412100000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412100000 -0500" stop="20210412102500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210412102500 -0500" stop="20210412120500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">4 Minutos Para La Gloria</title>
+  </programme>
+  <programme start="20210412120500 -0500" stop="20210412134500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">La colonia</title>
+  </programme>
+  <programme start="20210412134500 -0500" stop="20210412154000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Asesinos</title>
+  </programme>
+  <programme start="20210412154000 -0500" stop="20210412172500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Centurión</title>
+  </programme>
+  <programme start="20210412172500 -0500" stop="20210412191000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Resident Evil</title>
+    <title lang="xx">Resident Evil</title>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Michelle Rodríguez</actor>
+      <actor>Colin Salmon</actor>
+      <actor>Eric Mabius</actor>
+      <actor>James Purefoy</actor>
+      <actor>Martin Crewes</actor>
+      <producer>Paul W. S. Anderson</producer>
+      <composer>Marco Beltrami</composer>
+      <composer>Marilyn Manson</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_el_huesped_maldito.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210412191000 -0500" stop="20210412210000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Orgullo + Prejuicio + Zombies</title>
+  </programme>
+  <programme start="20210412210000 -0500" stop="20210412224000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Resident Evil: Extinción</title>
+    <title lang="xx">Resident Evil: Extinction</title>
+    <desc lang="es">Sobrevivientes de la catástrofe de Ciudad Raccoon viajan a través del desierto de Nevada con la esperanza de llegar a Alaska para combatir a los malvados de Umbrella Corp(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Ali Larter</actor>
+      <actor>Oded Fehr</actor>
+      <actor>Iain Glen</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Linden Ashby</actor>
+      <actor>Ashanti Douglas</actor>
+      <actor>Chris Egan</actor>
+      <producer>Paul W. S. Anderson</producer>
+      <producer>Jeremy Bolt</producer>
+      <composer>Charlie Clouser</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_extincion.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210412224000 -0500" stop="20210413003500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Orgullo + Prejuicio + Zombies</title>
+  </programme>
+  <programme start="20210413224000 -0500" stop="20210414003500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Orgullo + Prejuicio + Zombies</title>
+  </programme>
+  <programme start="20210414003500 -0500" stop="20210414023000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Asesinos</title>
+  </programme>
+  <programme start="20210414023000 -0500" stop="20210414032500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 11</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210414032500 -0500" stop="20210414042000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 12</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210414042000 -0500" stop="20210414044500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210414044500 -0500" stop="20210414051000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210414051000 -0500" stop="20210414053500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210414053500 -0500" stop="20210414060000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210414060000 -0500" stop="20210414063000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210414063000 -0500" stop="20210414070000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210414070000 -0500" stop="20210414073000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210414073000 -0500" stop="20210414080000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210414080000 -0500" stop="20210414083000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210414083000 -0500" stop="20210414090000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210414090000 -0500" stop="20210414093000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210414093000 -0500" stop="20210414100000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210414100000 -0500" stop="20210414105500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">NOS4A2 (Nosferatu)</title>
+    <episode-num>Temporada 2 !?!?! Episodio 6</episode-num>
+  </programme>
+  <programme start="20210414105500 -0500" stop="20210414125500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Whip It</title>
+  </programme>
+  <programme start="20210414125500 -0500" stop="20210414145000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Espejito, espejito</title>
+  </programme>
+  <programme start="20210414145000 -0500" stop="20210414171500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Inframundo</title>
+  </programme>
+  <programme start="20210414171500 -0500" stop="20210414191000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Asesinos</title>
+  </programme>
+  <programme start="20210414210000 -0500" stop="20210414220000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 6 !?!?! Episodio 7</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210414220000 -0500" stop="20210414230000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 6 !?!?! Episodio 8</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210414230000 -0500" stop="20210415010000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El Apocalipsis</title>
+  </programme>
+  <programme start="20210415010000 -0500" stop="20210415030500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El Coleccionista De Huesos</title>
+  </programme>
+  <programme start="20210415030500 -0500" stop="20210415040000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 13</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415050000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 14</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210415100000 -0500" stop="20210415110000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">NOS4A2 (Nosferatu)</title>
+    <episode-num>Temporada 2 !?!?! Episodio 7</episode-num>
+  </programme>
+  <programme start="20210415110000 -0500" stop="20210415125000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">An accidental studio</title>
+  </programme>
+  <programme start="20210415125000 -0500" stop="20210415150000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">La huésped</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415170500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Un Lugar Donde Refugiarse</title>
+    <title lang="xx">Safe Haven (2013)</title>
+    <desc lang="es">Katie llega a una ciudad costera trata de rehacer su vida, pero el cariño de un extraño hace que vuelva a confiar en la gente, su oscuro pasado la persigue(n)</desc>
+    <credits>
+      <actor>Josh Duhamel</actor>
+      <actor>Julianne Hough</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>David Lyons</actor>
+      <producer>Marty Bowen</producer>
+      <producer>Chad Freet</producer>
+      <composer>Deborah Lurie</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_lugar_secreto.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210415170500 -0500" stop="20210415191000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El lado luminoso de la vida</title>
+  </programme>
+  <programme start="20210415191000 -0500" stop="20210415210000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Experta en bodas</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415225000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20210415225000 -0500" stop="20210416011500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <title lang="xx">The Equalizer</title>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(n)</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>David Harbour</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Melissa Leo</actor>
+      <producer>Todd Black</producer>
+      <producer>Jason Blumenthal</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210416225000 -0500" stop="20210417011500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <title lang="xx">The Equalizer</title>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(n)</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>David Harbour</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Melissa Leo</actor>
+      <producer>Todd Black</producer>
+      <producer>Jason Blumenthal</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210417011500 -0500" stop="20210417032000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Los ilegales</title>
+  </programme>
+  <programme start="20210417032000 -0500" stop="20210417041500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 15</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210417041500 -0500" stop="20210417051000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>Temporada 3 !?!?! Episodio 16</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210417051000 -0500" stop="20210417053500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210417053500 -0500" stop="20210417060000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210417100000 -0500" stop="20210417103000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417121000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Odd Thomas</title>
+  </programme>
+  <programme start="20210417121000 -0500" stop="20210417140000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Pompeii la furia del volcán</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417154000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">La colonia</title>
+  </programme>
+  <programme start="20210417154000 -0500" stop="20210417172500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Bienvenido a la jungla</title>
+  </programme>
+  <programme start="20210417172500 -0500" stop="20210417191000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Centurión</title>
+  </programme>
+  <programme start="20210417191000 -0500" stop="20210417210000 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20210417210000 -0500" stop="20210417232500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <title lang="xx">The Equalizer</title>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(n)</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>David Harbour</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Melissa Leo</actor>
+      <producer>Todd Black</producer>
+      <producer>Jason Blumenthal</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210417232500 -0500" stop="20210418012500 -0500" channel="DUAL | AMC FHD">
+    <title lang="es">El líder</title>
+  </programme>
+  <programme start="20210410010200 -0500" stop="20210410022600 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Espía por error</title>
+  </programme>
+  <programme start="20210410022600 -0500" stop="20210410042000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Nadie es Perfecto</title>
+  </programme>
+  <programme start="20210410042000 -0500" stop="20210410054500 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Todos esos pequeños momentos</title>
+  </programme>
+  <programme start="20210410054500 -0500" stop="20210410071600 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210410071600 -0500" stop="20210410085400 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Katy Perry Parte de mi</title>
+  </programme>
+  <programme start="20210410085400 -0500" stop="20210410102400 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Shaun el cordero la película</title>
+  </programme>
+  <programme start="20210410102400 -0500" stop="20210410120400 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Alvin y las ardillas</title>
+  </programme>
+  <programme start="20210410120400 -0500" stop="20210410134000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Los locos Addams</title>
+  </programme>
+  <programme start="20210410134000 -0500" stop="20210410151700 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Tripulación Dave</title>
+  </programme>
+  <programme start="20210410151700 -0500" stop="20210410170000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Home No hay lugar como</title>
+  </programme>
+  <programme start="20210410170000 -0500" stop="20210410191200 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Jurassic World-Mundo Jurásico</title>
+  </programme>
+  <programme start="20210410191200 -0500" stop="20210410210000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La Torre Oscura</title>
+    <title lang="xx">The Dark Tower</title>
+    <desc lang="es">Un pistolero busca la Torre Oscura para poder salvar su mundo, pero su camino estará bloqueado por monstruos y un hechicero conocido como el hombre de negro(n)</desc>
+    <credits>
+      <actor>Idris Elba</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Tom Taylor</actor>
+      <producer>Akiva Goldsman</producer>
+      <producer>Brian Grazer</producer>
+      <composer>Junkie XL</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_torre_oscura.jpg" />
+  </programme>
+  <programme start="20210410210000 -0500" stop="20210410223700 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Inframundo Guerras de sangre</title>
+  </programme>
+  <programme start="20210410223700 -0500" stop="20210411011300 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Minority Report Sentencia p</title>
+  </programme>
+  <programme start="20210411011300 -0500" stop="20210411031700 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Prometeo</title>
+  </programme>
+  <programme start="20210411031700 -0500" stop="20210411051400 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La Llegada (2016)</title>
+    <desc lang="es">Una misteriosa nave aterriza en el planeta, un equipo de élite liderado por una experta en lingüística lucha contra el tiempo para encontrar respuestas(n)</desc>
+    <credits>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <producer>Dan Levine</producer>
+      <producer>Shawn Levy</producer>
+      <composer>Jóhann Jóhannsson</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_llegada_2016.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210411051400 -0500" stop="20210411060900 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210411060900 -0500" stop="20210411074700 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Las hermanas vampiro 2</title>
+  </programme>
+  <programme start="20210411074700 -0500" stop="20210411092500 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Una alegre Navidad</title>
+  </programme>
+  <programme start="20210411092500 -0500" stop="20210411114700 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Jack Reacher</title>
+  </programme>
+  <programme start="20210411114700 -0500" stop="20210411134900 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La Quinta Ola</title>
+    <title lang="xx">The 5th Wave</title>
+    <desc lang="es">Cuatro holas de ataques alienígenas han dejado la tierra devastada. Cassie huye tratando de salvar la vida de su hermano de la próxima ola(n)</desc>
+    <credits>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Ron Livingston</actor>
+      <actor>Maggie Siff</actor>
+      <actor>Alex Roe</actor>
+      <actor>Maria Bello</actor>
+      <actor>Maika Monroe</actor>
+      <actor>Liev Schreiber</actor>
+      <writer>The 5th Wave de Rick Yancey</writer>
+      <producer>Graham King</producer>
+      <producer>Tobey Maguire</producer>
+      <composer>Henry Jackman</composer>
+    </credits>
+    <date>2016</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_quinta_ola.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210411134900 -0500" stop="20210411164400 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Blade Runner 2049</title>
+    <title lang="xx">Blade Runner 2049</title>
+    <desc lang="es">Treinta años han pasado desde que Rick haya desapareció, ahora K necesitara buscarlo para encontrar las respuestas de lo que está pasando en la ciudad(n)</desc>
+    <credits>
+      <actor>Ryan Gosling</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Robin Wright</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Ana de Armas</actor>
+      <actor>Sylvia Hoeks</actor>
+      <actor>Carla Juri</actor>
+      <producer>Broderick Johnson</producer>
+      <producer>Andrew A. Kosove</producer>
+      <composer>Jóhann Jóhannsson</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/blade_runner_2049.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210411164400 -0500" stop="20210411184600 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Búsqueda Implacable 3</title>
+    <title lang="xx">Taken 3</title>
+    <desc lang="es">Brian Mylls es acusado por el asesinato de su ex esposa Leonore, ahora deberá descubrir quien asesino a su ex mujer y proteger a su hija(n)</desc>
+    <credits>
+      <actor>Liam Neeson</actor>
+      <actor>Famke Janssen</actor>
+      <actor>Maggie Grace</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Dougray Scott</actor>
+      <actor>Sam Spruell</actor>
+      <actor>Leland Orser</actor>
+      <producer>Luc Besson</producer>
+      <composer>Nathaniel Mechal</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/busqueda_implacable_3.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210411184600 -0500" stop="20210411210000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La verdad oculta</title>
+  </programme>
+  <programme start="20210411210000 -0500" stop="20210411230500 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Proyecto Géminis</title>
+    <title lang="xx">Gemini Man</title>
+    <desc lang="es">Henry Brogan es un asesino de élite, que misteriosamente es atacado y perseguido por un joven que aparentemente puede predecir cada uno de sus movimientos(n)</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>Clive Owen</actor>
+      <actor>Benedict Wong</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>David Ellison</producer>
+      <composer>Marco Beltrami</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/proyecto_geminis.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210411230500 -0500" stop="20210412004100 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20210412004100 -0500" stop="20210412024900 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Duro de matar 3</title>
+  </programme>
+  <programme start="20210412024900 -0500" stop="20210412045300 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Prometeo</title>
+  </programme>
+  <programme start="20210412045300 -0500" stop="20210412061100 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210412061100 -0500" stop="20210412074500 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Una alegre Navidad</title>
+  </programme>
+  <programme start="20210412074500 -0500" stop="20210412090900 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Shaun el cordero la película</title>
+  </programme>
+  <programme start="20210412090900 -0500" stop="20210412105100 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Tripulación Dave</title>
+  </programme>
+  <programme start="20210412105100 -0500" stop="20210412122400 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Bee Movie</title>
+  </programme>
+  <programme start="20210412122400 -0500" stop="20210412141400 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Jugada perfecta</title>
+  </programme>
+  <programme start="20210412141400 -0500" stop="20210412161700 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Proyecto Géminis</title>
+    <title lang="xx">Gemini Man</title>
+    <desc lang="es">Henry Brogan es un asesino de élite, que misteriosamente es atacado y perseguido por un joven que aparentemente puede predecir cada uno de sus movimientos(n)</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>Clive Owen</actor>
+      <actor>Benedict Wong</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>David Ellison</producer>
+      <composer>Marco Beltrami</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/proyecto_geminis.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210412161700 -0500" stop="20210412191100 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Blade Runner 2049</title>
+    <title lang="xx">Blade Runner 2049</title>
+    <desc lang="es">Treinta años han pasado desde que Rick haya desapareció, ahora K necesitara buscarlo para encontrar las respuestas de lo que está pasando en la ciudad(n)</desc>
+    <credits>
+      <actor>Ryan Gosling</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Robin Wright</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Ana de Armas</actor>
+      <actor>Sylvia Hoeks</actor>
+      <actor>Carla Juri</actor>
+      <producer>Broderick Johnson</producer>
+      <producer>Andrew A. Kosove</producer>
+      <composer>Jóhann Jóhannsson</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/blade_runner_2049.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210412191100 -0500" stop="20210412210000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Imparable</title>
+  </programme>
+  <programme start="20210412210000 -0500" stop="20210412225500 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Desaparecido</title>
+  </programme>
+  <programme start="20210412225500 -0500" stop="20210413004000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Inframundo Guerras de sangre</title>
+  </programme>
+  <programme start="20210413225500 -0500" stop="20210414004000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Inframundo Guerras de sangre</title>
+  </programme>
+  <programme start="20210414004000 -0500" stop="20210414025000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La Quinta Ola</title>
+    <title lang="xx">The 5th Wave</title>
+    <desc lang="es">Cuatro holas de ataques alienígenas han dejado la tierra devastada. Cassie huye tratando de salvar la vida de su hermano de la próxima ola(n)</desc>
+    <credits>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Ron Livingston</actor>
+      <actor>Maggie Siff</actor>
+      <actor>Alex Roe</actor>
+      <actor>Maria Bello</actor>
+      <actor>Maika Monroe</actor>
+      <actor>Liev Schreiber</actor>
+      <writer>The 5th Wave de Rick Yancey</writer>
+      <producer>Graham King</producer>
+      <producer>Tobey Maguire</producer>
+      <composer>Henry Jackman</composer>
+    </credits>
+    <date>2016</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_quinta_ola.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210414025000 -0500" stop="20210414060000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Minority Report Sentencia p</title>
+  </programme>
+  <programme start="20210414060000 -0500" stop="20210414075000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Las hermanas vampiro 2</title>
+  </programme>
+  <programme start="20210414075000 -0500" stop="20210414095000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Cosa de hombres</title>
+  </programme>
+  <programme start="20210414095000 -0500" stop="20210414115000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Jugada perfecta</title>
+  </programme>
+  <programme start="20210414115000 -0500" stop="20210414140000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">27 Bodas</title>
+    <title lang="xx">27 Dresses</title>
+    <desc lang="es">Jane, la eterna dama de honor que cuando está a punto de confesarle su amor a su jefe George, se da cuenta que él a quien en realidad quiere es a su hermana Tess(n)</desc>
+    <credits>
+      <actor>Katherine Heigl</actor>
+      <actor>James Marsden</actor>
+      <actor>Edward Burns</actor>
+      <actor>Malin Akerman</actor>
+      <actor>Melora Hardin</actor>
+      <actor>Judy Greer</actor>
+      <producer>Gary Barber</producer>
+      <producer>Roger Birnbaum</producer>
+      <composer>Randy Edelman</composer>
+      <composer>Priscilla Nedd-Friendly</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/27_bodas.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210414140000 -0500" stop="20210414161000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La Llegada (2016)</title>
+    <desc lang="es">Una misteriosa nave aterriza en el planeta, un equipo de élite liderado por una experta en lingüística lucha contra el tiempo para encontrar respuestas(n)</desc>
+    <credits>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <producer>Dan Levine</producer>
+      <producer>Shawn Levy</producer>
+      <composer>Jóhann Jóhannsson</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_llegada_2016.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210414161000 -0500" stop="20210414184000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Las torres gemelas</title>
+  </programme>
+  <programme start="20210414184000 -0500" stop="20210414210000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Rocketman</title>
+  </programme>
+  <programme start="20210414210000 -0500" stop="20210414230000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Mike y Dave Los busca novias</title>
+  </programme>
+  <programme start="20210414230000 -0500" stop="20210415013000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Logan Wolverine</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416013000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Logan Wolverine</title>
+  </programme>
+  <programme start="20210416013000 -0500" stop="20210416032000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20210416032000 -0500" stop="20210416060000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Alvin y las ardillas</title>
+  </programme>
+  <programme start="20210416060000 -0500" stop="20210416075000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Nacho libre</title>
+  </programme>
+  <programme start="20210416075000 -0500" stop="20210416094000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Bee Movie</title>
+  </programme>
+  <programme start="20210416094000 -0500" stop="20210416115000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">27 Bodas</title>
+    <title lang="xx">27 Dresses</title>
+    <desc lang="es">Jane, la eterna dama de honor que cuando está a punto de confesarle su amor a su jefe George, se da cuenta que él a quien en realidad quiere es a su hermana Tess(n)</desc>
+    <credits>
+      <actor>Katherine Heigl</actor>
+      <actor>James Marsden</actor>
+      <actor>Edward Burns</actor>
+      <actor>Malin Akerman</actor>
+      <actor>Melora Hardin</actor>
+      <actor>Judy Greer</actor>
+      <producer>Gary Barber</producer>
+      <producer>Roger Birnbaum</producer>
+      <composer>Randy Edelman</composer>
+      <composer>Priscilla Nedd-Friendly</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/27_bodas.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210416115000 -0500" stop="20210416141000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Rocketman</title>
+  </programme>
+  <programme start="20210416141000 -0500" stop="20210416163000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La verdad oculta</title>
+  </programme>
+  <programme start="20210416163000 -0500" stop="20210416182000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Desaparecido</title>
+  </programme>
+  <programme start="20210416182000 -0500" stop="20210416210000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">Duro de Matar 4.0</title>
+    <title lang="xx">Live Free or Die Hard</title>
+    <desc lang="es">John McClane, un policía hecho a la antigua deberá detener un ataque terrorista de alta tecnología, antes de que su autor intelectual se salga con la suya(n)</desc>
+    <credits>
+      <actor>Bruce Willis</actor>
+      <actor>Justin Long</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Maggie Q</actor>
+      <actor>Mary-Elizabeth Winstead</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Jonathan Sadowski</actor>
+      <producer>Michael Fottrell</producer>
+      <composer>Marco Beltrami</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/duro_de_matar_4_0.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210416210000 -0500" stop="20210416225000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La Torre Oscura</title>
+    <title lang="xx">The Dark Tower</title>
+    <desc lang="es">Un pistolero busca la Torre Oscura para poder salvar su mundo, pero su camino estará bloqueado por monstruos y un hechicero conocido como el hombre de negro(n)</desc>
+    <credits>
+      <actor>Idris Elba</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Tom Taylor</actor>
+      <producer>Akiva Goldsman</producer>
+      <producer>Brian Grazer</producer>
+      <composer>Junkie XL</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_torre_oscura.jpg" />
+  </programme>
+  <programme start="20210416225000 -0500" stop="20210417005000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La vigilante del futuro</title>
+  </programme>
+  <programme start="20210417225000 -0500" stop="20210418005000 -0500" channel="DUAL | CINECANAL FHD">
+    <title lang="es">La vigilante del futuro</title>
+  </programme>
 </tv>
