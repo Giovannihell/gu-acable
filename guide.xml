@@ -18,7 +18,7 @@
   <programme start="20210429024500 -0500" stop="20210429034500 -0500" channel="AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(c)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -43,7 +43,7 @@
   <programme start="20210429034500 -0500" stop="20210429044500 -0500" channel="AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(c)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -100,6 +100,7 @@
   </programme>
   <programme start="20210429100000 -0500" stop="20210429110000 -0500" channel="AMC FHD">
     <title lang="es">Eli Roth's history of horror</title>
+    <episode-num>Episodio 3</episode-num>
   </programme>
   <programme start="20210429110000 -0500" stop="20210429113000 -0500" channel="AMC FHD">
     <title lang="es">Action Zone</title>
@@ -118,7 +119,7 @@
   </programme>
   <programme start="20210429191000 -0500" stop="20210429210000 -0500" channel="AMC FHD">
     <title lang="es">Terminator 3</title>
-    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(c)</desc>
+    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(n)</desc>
     <credits>
       <actor>Arnold Schwarzenegger</actor>
       <actor>Nick Stahl</actor>
@@ -141,7 +142,7 @@
   <programme start="20210429210000 -0500" stop="20210429230000 -0500" channel="AMC FHD">
     <title lang="es">Terminator: La Salvación</title>
     <title lang="xx">Terminator Salvation</title>
-    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(c)</desc>
+    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(n)</desc>
     <credits>
       <actor>Christian Bale</actor>
       <actor>Sam Worthington</actor>
@@ -158,7 +159,7 @@
   <programme start="20210429230000 -0500" stop="20210430010000 -0500" channel="AMC FHD">
     <title lang="es">Terminator: La Salvación</title>
     <title lang="xx">Terminator Salvation</title>
-    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(c)</desc>
+    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(n)</desc>
     <credits>
       <actor>Christian Bale</actor>
       <actor>Sam Worthington</actor>
@@ -172,115 +173,10 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210430023000 -0500" stop="20210430033000 -0500" channel="AMC FHD">
-    <title lang="es">Fear the Walking Dead</title>
-    <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <actor>Alycia Debnam-Carey</actor>
-      <actor>Alycia Debnam-Carey</actor>
-      <actor>Elizabeth Rodríguez</actor>
-      <actor>Mercedes Mason</actor>
-      <actor>Lorenzo James Henrie</actor>
-      <producer>Bill Johnson</producer>
-      <producer>Avram Butch Kaplan</producer>
-      <composer>Atticus Ross</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
-    <episode-num>Temporada 4</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20210430033000 -0500" stop="20210430043000 -0500" channel="AMC FHD">
-    <title lang="es">Fear the Walking Dead</title>
-    <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <actor>Alycia Debnam-Carey</actor>
-      <actor>Alycia Debnam-Carey</actor>
-      <actor>Elizabeth Rodríguez</actor>
-      <actor>Mercedes Mason</actor>
-      <actor>Lorenzo James Henrie</actor>
-      <producer>Bill Johnson</producer>
-      <producer>Avram Butch Kaplan</producer>
-      <composer>Atticus Ross</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
-    <episode-num>Temporada 4 !?!?! Episodio 4</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20210430100000 -0500" stop="20210430110000 -0500" channel="AMC FHD">
-    <title lang="es">Eli Roth's history of horror</title>
-  </programme>
-  <programme start="20210430110000 -0500" stop="20210430113000 -0500" channel="AMC FHD">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210430113000 -0500" stop="20210430134000 -0500" channel="AMC FHD">
-    <title lang="es">El lado luminoso de la vida</title>
-  </programme>
-  <programme start="20210430134000 -0500" stop="20210430152500 -0500" channel="AMC FHD">
-    <title lang="es">Siempre a tu lado</title>
-  </programme>
-  <programme start="20210430152500 -0500" stop="20210430172000 -0500" channel="AMC FHD">
-    <title lang="es">Amor por Siempre</title>
-    <desc lang="es">Missie y su esposo se establecen en el Oeste de Estados Unidos.  Luego de muchos años sin ver a su padre pero surge una tragedia en su llegada</desc>
-    <credits>
-      <actor>Dale Midkiff</actor>
-      <actor>Erin Cottrell</actor>
-      <actor>Frank McRae</actor>
-      <actor>Logan Bartholomew</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/amor_por_siempre.jpg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210430172000 -0500" stop="20210430190500 -0500" channel="AMC FHD">
-    <title lang="es">Quiero Robarme a la Novia</title>
-    <title lang="xx">Made of Honor</title>
-    <desc lang="es">Mientras Tom espera que su mejor amiga regrese de viaje para pedirle matrimonio se da cuenta que ella está comprometida, ahora deberá luchar para no perderla</desc>
-    <credits>
-      <actor>Patrick Dempsey</actor>
-      <actor>Michelle Monaghan</actor>
-      <actor>Kevin McKidd</actor>
-      <actor>Kathleen Quinlan</actor>
-      <actor>Sydney Pollack</actor>
-      <actor>Chris Messina</actor>
-      <producer>Neal H. Mortiz</producer>
-      <composer>Rupert Gregson-Williams</composer>
-    </credits>
-    <date>2008</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/quiero_robarme_a_la_novia.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20210430190500 -0500" stop="20210430210000 -0500" channel="AMC FHD">
-    <title lang="es">El caza recompensas</title>
-  </programme>
-  <programme start="20210430210000 -0500" stop="20210430224500 -0500" channel="AMC FHD">
-    <title lang="es">30 días de noche días oscuros</title>
-  </programme>
   <programme start="20210430230000 -0500" stop="20210501010000 -0500" channel="AMC FHD">
     <title lang="es">Terminator: La Salvación</title>
     <title lang="xx">Terminator Salvation</title>
-    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(c)</desc>
+    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(n)</desc>
     <credits>
       <actor>Christian Bale</actor>
       <actor>Sam Worthington</actor>
@@ -296,7 +192,7 @@
   </programme>
   <programme start="20210501010000 -0500" stop="20210501025000 -0500" channel="AMC FHD">
     <title lang="es">Terminator 3</title>
-    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(c)</desc>
+    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(n)</desc>
     <credits>
       <actor>Arnold Schwarzenegger</actor>
       <actor>Nick Stahl</actor>
@@ -319,7 +215,7 @@
   <programme start="20210501025000 -0500" stop="20210501035000 -0500" channel="AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(c)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -344,7 +240,7 @@
   <programme start="20210501035000 -0500" stop="20210501044500 -0500" channel="AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(c)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -366,16 +262,13 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20210501044500 -0500" stop="20210501051000 -0500" channel="AMC FHD">
-    <title lang="es">Action Zone</title>
-  </programme>
   <programme start="20210501100000 -0500" stop="20210501110000 -0500" channel="AMC FHD">
     <title lang="es">Eli Roth's history of horror</title>
-    <episode-num>Episodio 3</episode-num>
+    <episode-num>Episodio 4</episode-num>
   </programme>
   <programme start="20210501110000 -0500" stop="20210501125500 -0500" channel="AMC FHD">
     <title lang="es">Terminator 3</title>
-    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(c)</desc>
+    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(n)</desc>
     <credits>
       <actor>Arnold Schwarzenegger</actor>
       <actor>Nick Stahl</actor>
@@ -397,7 +290,7 @@
   </programme>
   <programme start="20210501125500 -0500" stop="20210501151500 -0500" channel="AMC FHD">
     <title lang="es">Hombre de Familia</title>
-    <desc lang="es">The Family Man. Nicolas Cage. Un hombre soltero y adinerado de Wall Street despierta y se encuentra casado, con hijos y su auto es ahora una mini-van(c)</desc>
+    <desc lang="es">The Family Man. Nicolas Cage. Un hombre soltero y adinerado de Wall Street despierta y se encuentra casado, con hijos y su auto es ahora una mini-van(n)</desc>
     <credits>
       <actor>Nicolas Cage</actor>
       <actor>Téa Leoni</actor>
@@ -414,7 +307,7 @@
   </programme>
   <programme start="20210501173000 -0500" stop="20210501192500 -0500" channel="AMC FHD">
     <title lang="es">Terminator 3</title>
-    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(c)</desc>
+    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(n)</desc>
     <credits>
       <actor>Arnold Schwarzenegger</actor>
       <actor>Nick Stahl</actor>
@@ -449,7 +342,7 @@
   <programme start="20210502030500 -0500" stop="20210502040000 -0500" channel="AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(g)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -474,7 +367,7 @@
   <programme start="20210502040000 -0500" stop="20210502050000 -0500" channel="AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(g)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -553,7 +446,7 @@
   <programme start="20210503040000 -0500" stop="20210503050000 -0500" channel="AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(c)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -578,7 +471,7 @@
   <programme start="20210503050000 -0500" stop="20210503060000 -0500" channel="AMC FHD">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(g)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -617,7 +510,7 @@
   </programme>
   <programme start="20210503183500 -0500" stop="20210503210000 -0500" channel="AMC FHD">
     <title lang="es">Hombre de Familia</title>
-    <desc lang="es">The Family Man. Nicolas Cage. Un hombre soltero y adinerado de Wall Street despierta y se encuentra casado, con hijos y su auto es ahora una mini-van(c)</desc>
+    <desc lang="es">The Family Man. Nicolas Cage. Un hombre soltero y adinerado de Wall Street despierta y se encuentra casado, con hijos y su auto es ahora una mini-van(n)</desc>
     <credits>
       <actor>Nicolas Cage</actor>
       <actor>Téa Leoni</actor>
@@ -632,7 +525,7 @@
   <programme start="20210503210000 -0500" stop="20210503232500 -0500" channel="AMC FHD">
     <title lang="es">El Justiciero (The Equalizer)</title>
     <title lang="xx">The Equalizer</title>
-    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(c)</desc>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(n)</desc>
     <credits>
       <actor>Denzel Washington</actor>
       <actor>Marton Csokas</actor>
@@ -781,9 +674,6 @@
   </programme>
   <programme start="20210506230000 -0500" stop="20210507003000 -0500" channel="AMC FHD">
     <title lang="es">Piraña 3D</title>
-  </programme>
-  <programme start="20210429000000 -0500" stop="20210429013000 -0500" channel="AZ CINEMA FHD">
-    <title lang="es">Ni modo... así somos</title>
   </programme>
   <programme start="20210429013000 -0500" stop="20210429030000 -0500" channel="AZ CINEMA FHD">
     <title lang="es">La adúltera</title>
